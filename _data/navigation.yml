@@ -6,8 +6,8 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Open Source"
-    url: /opensource/    
+  # - title: "Open Source"
+  #   url: /opensource/    
 
   - title: "Portfolio"
     url: /portfolio/
@@ -15,8 +15,8 @@ main:
   # - title: "Teaching"
     # url: /teaching/    
     
-  # - title: "Projects"
-    # url: /projects/
+  - title: "Projects"
+    url: /projects/
 
   - title: "Open Source"
     url: /opensource/
