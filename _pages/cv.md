@@ -3,8 +3,6 @@ layout: archive
 title: "Selected Projects"
 permalink: /cv/
 author_profile: true
-# redirect_from:
-  # # - /projects
 ---
 
 {% include base_path %}
