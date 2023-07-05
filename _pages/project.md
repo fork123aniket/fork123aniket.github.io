@@ -9,8 +9,8 @@ author_profile: true
 
 Below is a non-exhaustive list of my non-research projects. You can also check out a complete list of my projects [here](https://github.com/fork123aniket?tab=repositories).
 
-Contrastive Learning-based Few-shot Image Classification   [[Code](https://github.com/fork123aniket/Visual-Contrastive-Learning-for-Few-shot-Image-Classification)]
-======
+## Contrastive Learning-based Few-shot Image Classification   [[Code](https://github.com/fork123aniket/Visual-Contrastive-Learning-for-Few-shot-Image-Classification)]
+
 - Defined a custom contrastive loss and trained a **few-shot** version of Siamese Networks to do **n-way k-shot**
 image classification by mapping the image similarity task into a fully-supervised classification learning task.
 - Libraries/Framework: Numpy, Matplotlib, PyTorch, and TorchVision
