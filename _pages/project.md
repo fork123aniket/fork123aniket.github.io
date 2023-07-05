@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Selected Projects"
-permalink: /cv/
+permalink: /project/
 author_profile: true
 ---
 
