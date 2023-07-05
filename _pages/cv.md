@@ -13,7 +13,7 @@ Contrastive Learning-based Few-shot Image Classification   [[Code](https://githu
 ======
 - Defined a custom contrastive loss and trained a **few-shot** version of Siamese Networks to do **n-way k-shot**
 image classification by mapping the image similarity task into a fully-supervised classification learning task.
-- Libraries/Framework used: Numpy, Matplotlib, PyTorch, and TorchVision
+- Libraries/Framework: Numpy, Matplotlib, PyTorch, and TorchVision
 
 Molecule Graph Generation   [[Code](https://github.com/fork123aniket/Molecule-Graph-Generation)]
 ======
