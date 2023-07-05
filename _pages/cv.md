@@ -23,29 +23,29 @@ to train the model).
   
 Text-to-Image Generation using GANs   [[Code](https://github.com/fork123aniket/Text-to-Image-Synthesis-using-StackGANs)]
 ======
-– Implemented a **Stage-wise StackGAN** model capable of producing *photo-realistic images* conditioned on text
+- Implemented a **Stage-wise StackGAN** model capable of producing *photo-realistic images* conditioned on text
 descriptions. It is also able to contain necessary details and vivid object parts while generating high-quality
 images.
-– Given the text description, the **Stage-1 GAN** forms the primitive shape and colors of the object. It puts less
+- Given the text description, the **Stage-1 GAN** forms the primitive shape and colors of the object. It puts less
 emphasis on the quality of the image being formed, thereby yielding a low-resolution image.
-– The **Stage-2 GAN** takes *Stage-1 results* and text descriptions as inputs and generates high-resolution images
+- The **Stage-2 GAN** takes *Stage-1 results* and text descriptions as inputs and generates high-resolution images
 with photo-realistic details and thus can rectify defects in *Stage-1 results* and add compelling details with the
 refinement process.
 - Libraries/Framework: Keras, Tensorflow, Numpy, Pandas, and Matplotlib
 
 An Unsupervised Approach to Generate Sentence Embeddings   [[Code](https://github.com/fork123aniket/Contrastive-Learning-for-Sentence-Embeddings)]
 ======
-– Trained a simple *contrastive learning-based framework* to perform text similarity, where sentences with
+- Trained a simple *contrastive learning-based framework* to perform text similarity, where sentences with
 similar semantic features attain higher similarity scores.
-– Used a *pre-trained BERT model* to generate two different, yet semantically similar representations for each
+- Used a *pre-trained BERT model* to generate two different, yet semantically similar representations for each
 input sentence with minimal variation.
-– To compute the degree of similarity between these latent representations, employed a *cosine similarity-based
+- To compute the degree of similarity between these latent representations, employed a *cosine similarity-based
 contrastive metric*.
 - Libraries/Framework: Scikit-learn, Tensorflow, Numpy, Pandas, and Transformers
   
 Zero-shot Question Answering with Large Language Models   [[Code](https://github.com/fork123aniket/Zero-Shot-Question-Answering)]
 ======
-– Implemented a *zero-shot question-answering system* that, for each question `q` with available answer options
+- Implemented a *zero-shot question-answering system* that, for each question `q` with available answer options
 `a`, `b`, and `c`, computes each option’s score as the *negative log-likelihood under the language model conditioned on the question* and then returns the option with the highest score as the most probable answer
 to the question `q`.
 - Libraries/Framework: Transformers, Numpy, and Tensorflow
