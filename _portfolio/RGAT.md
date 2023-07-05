@@ -1,6 +1,6 @@
 ---
 title: "Relational Graph Attention Networks"
-excerpt: "Short description of portfolio item number"
+# excerpt: "Short description of portfolio item number"
 collection: opensource
 ---
 
