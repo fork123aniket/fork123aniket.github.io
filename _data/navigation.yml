@@ -20,6 +20,9 @@ main:
 
   - title: "Open Source"
     url: /opensource/
+
+  - title: "Work Experience"
+    url: /workexperience/
         
   # - title: "Blog Posts"
     # url: /year-archive/
