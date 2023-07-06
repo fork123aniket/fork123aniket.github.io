@@ -10,5 +10,6 @@ in the graph.
 - Softmax activation is then applied to the output of GCN to obtain **soft**, **yet differentiable cluster assignments**
 being made for the input graph.
 - Designed and implemented unit tests to confirm the correctness of the clustering technique.
+- Libraries/Framework: PyTorch, PyTorch Geometric, and PyTest
 
 [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.nn.dense.DMoNPooling.html#torch_geometric.nn.dense.DMoNPooling)/[Code](https://github.com/fork123aniket/Graph-Clustering-using-Graph-Neural-Networks-from-scratch)
