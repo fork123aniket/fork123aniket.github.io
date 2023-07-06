@@ -10,5 +10,6 @@ weights for every edge in the population and produced explanatory subgraph as ou
 - Softmax activation is then applied to the output of GCN to obtain **soft**, **yet differentiable cluster assignments**
 being made for the input graph.
 - Implemented custom unit tests to ensure proper execution of the Graph Explainability technique.
+- Libraries/Framework: Numpy, tqdm, PyTorch, PyTorch Geometric, and PyTest
 
 [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/modules/contrib.html#torch_geometric.contrib.explain.GraphMaskExplainer)/[Code](https://github.com/fork123aniket/Model-agnostic-Graph-Explainability-from-Scratch)
