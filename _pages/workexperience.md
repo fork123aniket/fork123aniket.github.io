@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <img align="left" width="50" height="50" src="https://github.com/fork123aniket/fork123aniket.github.io/blob/master/files/IBMResearch.png">
+
 - Nov 2018 - July 2020: Data Scientist
   - *Organization: IBM Consulting*
   - Built a data analytics platform from scratch for monitoring and tracking the traversed path of the ship.
