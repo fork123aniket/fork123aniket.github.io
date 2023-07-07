@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-![Illustration](https://github.com/fork123aniket/fork123aniket.github.io/blob/master/files/IBMResearch.png)
+![Illustration](https://github.com/fork123aniket/fork123aniket.github.io/blob/master/files/ibmresearch.png)
 
 - Nov 2018 - July 2020: Data Scientist
   - *Organization: IBM Consulting*
