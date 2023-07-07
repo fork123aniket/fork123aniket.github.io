@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <img src="../files/ibmconsulting.png" width=100px>
+
 - Nov 2018 - July 2020: Data Scientist
   - *Organization: , India*
   - Built a data analytics platform from scratch for monitoring and tracking the traversed path of the ship.
