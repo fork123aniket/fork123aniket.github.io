@@ -22,17 +22,21 @@ author_profile: true
 	the Scikit-Learn library. Features that had higher Shapley values had been considered more important for the
 	prediction made by the prediction algorithms.
 ---
-	
+
+<img align="left" src="../files/tudortmund.png" width=200px>
+
 - Dec 2020 - June 2021: Research Intern
-  - *Organization: <img src="../files/tudortmund.png" height=20px width=100px>, Germany*
   - Designed and implemented a unique post-hoc model-agnostic Graph Neural Networks (GNNs) explainability
 	framework. Unlike other traditional GNN explainability methods, the implemented approach does not require
 	retraining to generalize explanations to new instances for both node as well as graph classification tasks.
   - The framework takes a trained GNN model along with some meta-data information of the input graph as input,
 	computes layer-wise edge importance weights, and outputs an explanatory subgraph.
-	
-- July 2020 - Dec 2022: Research Associate
-  - *Organization: <img src="../files/ibmresearch.png" width=100px>, India*
+---
+
+<img align="left" src="../files/ibmresearch.png" width=200px>
+
+<div style="text-align: right">July 2020 - Dec 2022: Research Associate</div>
+
   - Worked on creating a framework to transform the domain-specific tabular data into heterogeneous knowledge
 	graphs. The framework consumes tabular data as a property graph (unique to different domains), models the
 	various available relations in the knowledge graph using multi-layered RGCN, and generates a domain-level
