@@ -9,6 +9,7 @@ author_profile: true
 
 <img align="left" src="../files/ibmconsulting.png" width=200px>
 
+<div style="text-align: right">
 - Nov 2018 - July 2020: Data Scientist
   - Built a data analytics platform from scratch for monitoring and tracking the traversed path of the ship.
   - Implemented various regressive prediction algorithms such as feedforward networks, support vector regression, etc.
@@ -21,7 +22,7 @@ author_profile: true
   - Implemented an explainability solution by computing Shapley values for the features present in the dataset using
 	the Scikit-Learn library. Features that had higher Shapley values had been considered more important for the
 	prediction made by the prediction algorithms.
-
+</div>
 ---
 	
 - Dec 2020 - June 2021: Research Intern
