@@ -32,7 +32,7 @@ author_profile: true
 	computes layer-wise edge importance weights, and outputs an explanatory subgraph.
 	
 - July 2020 - Dec 2022: Research Associate
-  - *Organization: IBM Research, India*
+  - *Organization: IBM Research, India* <img src="../files/ibmresearch.png" width=100px align="left">
   - Worked on creating a framework to transform the domain-specific tabular data into heterogeneous knowledge
 	graphs. The framework consumes tabular data as a property graph (unique to different domains), models the
 	various available relations in the knowledge graph using multi-layered RGCN, and generates a domain-level
