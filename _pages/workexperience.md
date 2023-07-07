@@ -22,7 +22,7 @@ author_profile: true
 	prediction made by the prediction algorithms.
 	
 - Dec 2020 - June 2021: Research Intern
-  - *Organization: <img src="../files/tudortmund.png" height=50px width=100px>, Germany*
+  - *Organization: <img src="../files/tudortmund.png" height=20px width=100px>, Germany*
   - Designed and implemented a unique post-hoc model-agnostic Graph Neural Networks (GNNs) explainability
 	framework. Unlike other traditional GNN explainability methods, the implemented approach does not require
 	retraining to generalize explanations to new instances for both node as well as graph classification tasks.
