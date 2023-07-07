@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<img src="../files/ibmresearch.png" alt="lasagna">
+<img src="../files/ibmresearch.png" width=50px >
 
 - Nov 2018 - July 2020: Data Scientist
   - *Organization: IBM Consulting*
