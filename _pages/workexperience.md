@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-![Illustration of combining vision and language modalities](https://github.com/fork123aniket/fork123aniket.github.io/blob/master/files/IBMResearch.png){: .align-left width="50px"}
+<img align="left" width="100" height="100" src="https://github.com/fork123aniket/fork123aniket.github.io/blob/master/files/IBMResearch.png" />
 - Nov 2018 - July 2020: Data Scientist
   - *Organization: IBM Consulting*
   - Built a data analytics platform from scratch for monitoring and tracking the traversed path of the ship.
