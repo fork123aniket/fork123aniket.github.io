@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-*Organization: <img src="../files/ibmconsulting.png" width="100" height="100"> , India*
+*Organization: <img src="../files/ibmconsulting.png" width=100px> , India*
 
 - Nov 2018 - July 2020: Data Scientist
   - *Organization: , India*
