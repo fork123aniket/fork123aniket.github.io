@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<img src="../files/ibmresearch.png" width=50px >
-
 - Nov 2018 - July 2020: Data Scientist
   - *Organization: IBM Consulting*
   - Built a data analytics platform from scratch for monitoring and tracking the traversed path of the ship.
@@ -32,7 +30,7 @@ author_profile: true
 	computes layer-wise edge importance weights, and outputs an explanatory subgraph.
 	
 - July 2020 - Dec 2022: Research Associate
-  - *Organization: IBM Research, India* <img src="../files/ibmresearch.png" width=100px align="left">
+  - *Organization: <img src="../files/ibmresearch.png" width=100px>, *India*
   - Worked on creating a framework to transform the domain-specific tabular data into heterogeneous knowledge
 	graphs. The framework consumes tabular data as a property graph (unique to different domains), models the
 	various available relations in the knowledge graph using multi-layered RGCN, and generates a domain-level
