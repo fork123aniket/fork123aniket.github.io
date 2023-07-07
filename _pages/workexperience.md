@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 - Nov 2018 - July 2020: Data Scientist
-  - *Organization: <img src="../files/ibmconsulting.png" width=100px>, India*
+  - *Organization: <img src="../files/ibmconsulting.png" width=100px> , India*
   - Built a data analytics platform from scratch for monitoring and tracking the traversed path of the ship.
   - Implemented various regressive prediction algorithms such as feedforward networks, support vector regression, etc.
 	as a part of the platform to predict the movement of the ship in terms of longitudes and latitudes.
