@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 - Nov 2018 - July 2020: Data Scientist
-  - *Organization: IBM Consulting*
+  - *Organization:* <img src="../files/ibmconsulting.png" width=100px>
   - Built a data analytics platform from scratch for monitoring and tracking the traversed path of the ship.
   - Implemented various regressive prediction algorithms such as feedforward networks, support vector regression, etc.
 	as a part of the platform to predict the movement of the ship in terms of longitudes and latitudes.
@@ -22,7 +22,7 @@ author_profile: true
 	prediction made by the prediction algorithms.
 	
 - Dec 2020 - June 2021: Research Intern
-  - *Organization: Technical University of Dortmund, Germany*
+  - *Organization: <img src="../files/tudortmund.png" width=100px>, Germany*
   - Designed and implemented a unique post-hoc model-agnostic Graph Neural Networks (GNNs) explainability
 	framework. Unlike other traditional GNN explainability methods, the implemented approach does not require
 	retraining to generalize explanations to new instances for both node as well as graph classification tasks.
@@ -30,7 +30,7 @@ author_profile: true
 	computes layer-wise edge importance weights, and outputs an explanatory subgraph.
 	
 - July 2020 - Dec 2022: Research Associate
-  - *Organization: <img src="../files/ibmresearch.png" width=100px>, *India*
+  - *Organization: <img src="../files/ibmresearch.png" width=100px>, India*
   - Worked on creating a framework to transform the domain-specific tabular data into heterogeneous knowledge
 	graphs. The framework consumes tabular data as a property graph (unique to different domains), models the
 	various available relations in the knowledge graph using multi-layered RGCN, and generates a domain-level
@@ -50,7 +50,7 @@ author_profile: true
 	strongly connected) and to the node features (nodes in the same cluster should have similar features).
 
 - Feb 2021 - Dec 2021: Research Associate
-  - *Organization: IBM Research, Zurich*
+  - *Organization:* <img src="../files/ibmresearchzurich.png" width=100px>
   - Developed a novel unsupervised contrastive learning-based approach for the detection of similar bugs to facilitate
 	faster log analysis. The approach extracts documents from the corpus of bug text, learns a latent representation
 	using a pre-trained BERT language model to form a document embedding for each document, and then measures
@@ -62,7 +62,7 @@ author_profile: true
 	synthetic bugs corpus strongly recommended the complete elimination of manual detection of similar bugs.
 	
 - Apr 2022 - June 2023: Software Developer
-  - *Organization: IBM Systems Development Labs, India*
+  - *Organization: <img src="../files/ibmsystems.jpg" width=100px>, India*
   - Created a time series-based neural learning framework for predicting the capacity of storage systems.
   - Utilized generic machine learning algorithms (LSTM, Linear Regression, and RNN) to impeccably predict run-out
 	memory times of storage systems in the resources pool.
