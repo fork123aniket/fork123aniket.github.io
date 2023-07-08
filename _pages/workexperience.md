@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive
 title: "Research & Work Experience"
 permalink: /workexperience/
 author_profile: true
@@ -7,8 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<img align="left" src="../files/ibmconsulting.png" width=200px>
-
+**Organization: *IBM Consulting, India***
 - ***Nov 2018 - July 2020: Data Scientist***
   - Built a data analytics platform from scratch for monitoring and tracking the traversed path of the ship.
   - Implemented various regressive prediction algorithms such as feedforward networks, support vector regression, etc.
@@ -23,8 +22,7 @@ author_profile: true
 	prediction made by the prediction algorithms.
 ---
 
-<img align="left" src="../files/tudortmund.png" width=200px>
-
+**Organization: *Technical University of Dortmund, Germany***
 - ***Dec 2020 - June 2021: Research Intern***
   - Designed and implemented a unique post-hoc model-agnostic Graph Neural Networks (GNNs) explainability
 	framework. Unlike other traditional GNN explainability methods, the implemented approach does not require
@@ -33,8 +31,7 @@ author_profile: true
 	computes layer-wise edge importance weights, and outputs an explanatory subgraph.
 ---
 
-<img align="left" src="../files/ibmresearch.png" width=200px>
-
+**Organization: *IBM Research, India***
 - ***July 2020 - Dec 2022: Research Associate***
   - Worked on creating a framework to transform the domain-specific tabular data into heterogeneous knowledge
 	graphs. The framework consumes tabular data as a property graph (unique to different domains), models the
@@ -55,8 +52,7 @@ author_profile: true
 	strongly connected) and to the node features (nodes in the same cluster should have similar features).
 ---
 
-<img align="left" src="../files/ibmresearchzurich.png" width=200px>
-
+**Organization: *IBM Research, Zurich***
 - ***Feb 2021 - Dec 2021: Research Associate***
   - Developed a novel unsupervised contrastive learning-based approach for the detection of similar bugs to facilitate
 	faster log analysis. The approach extracts documents from the corpus of bug text, learns a latent representation
@@ -69,8 +65,7 @@ author_profile: true
 	synthetic bugs corpus strongly recommended the complete elimination of manual detection of similar bugs.
 ---
 
-<img align="left" src="../files/ibmsystems.jpg" width=100px>
-
+**Organization: *IBM Systems Development Lab, India***
 - ***Apr 2022 - June 2023: Software Developer***
   - Created a time series-based neural learning framework for predicting the capacity of storage systems.
   - Utilized generic machine learning algorithms (LSTM, Linear Regression, and RNN) to impeccably predict run-out
