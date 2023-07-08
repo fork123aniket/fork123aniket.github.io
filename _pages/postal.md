@@ -3,6 +3,8 @@ layout: post
 title:  "A Modern Take on the Bias-Variance Tradeoff in Neural Networks"
 date:   2019-10-19 00:00:00 +00:00
 image: /files/ibmresearch.png
+permalink: /postal/
+author_profile: true
 categories: research
 author: "Sarthak Mittal"
 authors: "Brady Neal, <strong>Sarthak Mittal</strong>, Aristide Baratin, Vinayak Tantia, Matthew Scicluna, Simon Lacoste-Julien, Ioannis Mitliagkas"
