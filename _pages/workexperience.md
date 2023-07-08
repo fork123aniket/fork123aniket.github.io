@@ -7,12 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-.right[
-.bullets[
-- EMail-Verschlüsselung
-]
-] 
-
 <img align="left" src="../files/ibmconsulting.png" width=200px>
 
 - ***Nov 2018 - July 2020: Data Scientist***
