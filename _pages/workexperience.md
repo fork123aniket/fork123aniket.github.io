@@ -1,11 +1,17 @@
 ---
-layout: archive
+layout: post
 title: "Research & Work Experience"
 permalink: /workexperience/
 author_profile: true
 ---
 
 {% include base_path %}
+
+.right[
+.bullets[
+- EMail-Verschlüsselung
+]
+] 
 
 <img align="left" src="../files/ibmconsulting.png" width=200px>
 
