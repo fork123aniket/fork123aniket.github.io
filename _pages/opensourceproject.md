@@ -15,8 +15,8 @@ author_profile: true
 based on **Spectral Modularity Maximization**.
 - A multi-layer graph convolutional network (GCN) is used to learn the hidden representations of each of the nodes
 in the graph.
-- Softmax activation is then applied to the output of GCN to obtain **soft**, **yet differentiable cluster assignments**
-being made for the input graph.
+- <p>Softmax activation is then applied to the output of GCN to obtain <i>soft</i>, yet <i>differentiable<br>
+  cluster assignments</i> being made for the input graph.</p>
 - Designed and implemented unit tests to confirm the correctness of the clustering technique.
 - Libraries/Framework: *PyTorch*, *PyTorch Geometric*, and *PyTest*
 
@@ -26,7 +26,8 @@ being made for the input graph.
 
 - This contribution aims at adding a **Graph Explainability solution** powered by **hard-concrete distribution** to PyTorch Geometric.
 based on **Spectral Modularity Maximization**.
-- <p>Implemented a <i>post-hoc model-agnostic graph explainability</i> technique, which, at every hidden layer of the GNN model, computed explanation weights for<br> 
+- <p>Implemented a <i>post-hoc model-agnostic graph explainability</i> technique, which,<br> 
+  at every hidden layer of the GNN model, computed explanation weights for<br> 
   every edge in the population and produced explanatory subgraph as output.</p>
 - <p>Softmax activation is then applied to the output of GCN to obtain <i>soft</i>, yet<br> 
   <i>differentiable cluster assignments</i> being made for the input graph.</p>
@@ -41,7 +42,8 @@ based on **Spectral Modularity Maximization**.
 - This contribution relates to bringing attention to heterogeneous (relational) graphs and incorporating this
 relation-aware attention operator into PyTorch Geometric Library.
 - Offers two different mechanisms to compute attention for relational graphs, i.e. **within-relation** and **across-relation**.
-- This implementation also provides four different cardinality preservation options (**additive**, **scaled**, **f-additive**, and
-**f-scaled**) to further improve attention computation for the heterogeneous graphs.
+- <p>This implementation also provides four different cardinality preservation options<br>
+  (<b>additive</b>, <b>scaled</b>, <b>f-additive</b>, and
+<b>f-scaled</b>) to further improve attention computation for the heterogeneous graphs.</p>
 - Wrote custom unit tests to verify the technique’s accuracy.
 - Libraries/Framework: *torch-scatter*, *torch-sparse*, *PyTorch*, *PyTorch Geometric*, and *PyTest*
