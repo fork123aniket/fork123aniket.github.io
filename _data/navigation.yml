@@ -24,8 +24,8 @@ main:
   - title: "Work Experience"
     url: /workexperience/
         
-  # - title: "Blog Posts"
-  #   url: /postal/
+  - title: "Blog Posts"
+    url: /posts/
     
   - title: "CV"
     url: /files/Resume.pdf
