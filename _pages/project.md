@@ -11,17 +11,23 @@ Below is a non-exhaustive list of my non-research projects. You can also check o
 
 ### Contrastive Learning-based Few-shot Image Classification   [[Code](https://github.com/fork123aniket/Visual-Contrastive-Learning-for-Few-shot-Image-Classification)]
 
+<img align="right" src="../files/siamesenetworks.png" width=200px>
+
 - Defined a custom contrastive loss and trained a **few-shot** version of Siamese Networks to do **n-way k-shot**
 image classification by mapping the image similarity task into a fully-supervised classification learning task.
 - Libraries/Framework: Numpy, Matplotlib, PyTorch, and TorchVision
 
 ### Molecule Graph Generation   [[Code](https://github.com/fork123aniket/Molecule-Graph-Generation)]
 
+<img align="right" src="../files/vgae.png" width=200px>
+
 - Implemented *Graph Convolutional Networks-based Variational Graph AutoEncoders* to **generate new molecular graphs** that possess similar statistical distribution as that of the learned distribution of molecular graphs (used
 to train the model).
 - Libraries/Framework used: PyTorch, PyTorch Geometric, Numpy, and NetworkX
   
 ### Text-to-Image Generation using GANs   [[Code](https://github.com/fork123aniket/Text-to-Image-Synthesis-using-StackGANs)]
+
+<img align="right" src="../files/stagegan.png" width=200px>
 
 - Implemented a **Stage-wise StackGAN** model capable of producing *photo-realistic images* conditioned on text
 descriptions. It is also able to contain necessary details and vivid object parts while generating high-quality
@@ -35,6 +41,8 @@ refinement process.
 
 ### An Unsupervised Approach to Generate Sentence Embeddings   [[Code](https://github.com/fork123aniket/Contrastive-Learning-for-Sentence-Embeddings)]
 
+<img align="right" src="../files/bert.jpg" width=200px>
+
 - Trained a simple *contrastive learning-based framework* to perform text similarity, where sentences with
 similar semantic features attain higher similarity scores.
 - Used a *pre-trained BERT model* to generate two different, yet semantically similar representations for each
@@ -44,6 +52,8 @@ contrastive metric*.
 - Libraries/Framework: Scikit-learn, Tensorflow, Numpy, Pandas, and Transformers
   
 ### Zero-shot Question Answering with Large Language Models   [[Code](https://github.com/fork123aniket/Zero-Shot-Question-Answering)]
+
+<img align="right" src="../files/zeroshot.jpg" width=200px>
 
 - Implemented a *zero-shot question-answering system* that, for each question `q` with available answer options
 `a`, `b`, and `c`, computes each option’s score as the *negative log-likelihood under the language model conditioned on the question* and then returns the option with the highest score as the most probable answer
