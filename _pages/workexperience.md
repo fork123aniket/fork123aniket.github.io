@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+---
+
+<img align="right" src="../files/ibmconsulting.png" width=200px>
+
 **Organization: *IBM Consulting, India***
 - ***Nov 2018 - July 2020: Data Scientist***
   - Built a data analytics platform from scratch for monitoring and tracking the traversed path of the ship.
@@ -22,6 +26,8 @@ author_profile: true
 	prediction made by the prediction algorithms.
 ---
 
+<img align="right" src="../files/tudortmund.png" width=200px>
+
 **Organization: *Technical University of Dortmund, Germany***
 - ***Dec 2020 - June 2021: Research Intern***
   - Designed and implemented a unique post-hoc model-agnostic Graph Neural Networks (GNNs) explainability
@@ -30,6 +36,8 @@ author_profile: true
   - The framework takes a trained GNN model along with some meta-data information of the input graph as input,
 	computes layer-wise edge importance weights, and outputs an explanatory subgraph.
 ---
+
+<img align="right" src="../files/ibmresearch.png" width=200px>
 
 **Organization: *IBM Research, India***
 - ***July 2020 - Dec 2022: Research Associate***
@@ -52,6 +60,8 @@ author_profile: true
 	strongly connected) and to the node features (nodes in the same cluster should have similar features).
 ---
 
+<img align="right" src="../files/ibmresearchzurich.png" width=200px>
+
 **Organization: *IBM Research, Zurich***
 - ***Feb 2021 - Dec 2021: Research Associate***
   - Developed a novel unsupervised contrastive learning-based approach for the detection of similar bugs to facilitate
@@ -65,6 +75,8 @@ author_profile: true
 	synthetic bugs corpus strongly recommended the complete elimination of manual detection of similar bugs.
 ---
 
+<img align="right" src="../files/ibmsystems.jpg" width=200px height=100px>
+
 **Organization: *IBM Systems Development Lab, India***
 - ***Apr 2022 - June 2023: Software Developer***
   - Created a time series-based neural learning framework for predicting the capacity of storage systems.
@@ -74,5 +86,5 @@ author_profile: true
 	average growth in usable capacity over a specific forecasting window period, which in turn helped fill the missing
 	data present in the time series.
   - Implemented a data extraction pipeline to extract data in the form of multivariate time series from a storage data
-	lake. Work done in close collaboration with IBM Research, Almaden.
+	lake. Work done in close collaboration with *IBM Research, Almaden*.
 
