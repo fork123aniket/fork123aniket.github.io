@@ -44,6 +44,8 @@ relation-aware attention operator into PyTorch Geometric Library.
 - Offers two different mechanisms to compute attention for relational graphs, i.e. **within-relation** and **across-relation**.
 - <p>This implementation also provides four different cardinality preservation options<br>
   (<b>additive</b>, <b>scaled</b>, <b>f-additive</b>, and
-<b>f-scaled</b>) to further improve attention computation for the heterogeneous graphs.</p>
+<b>f-scaled</b>) to further improve attention<br> 
+computation for the heterogeneous graphs.</p>
 - Wrote custom unit tests to verify the technique’s accuracy.
-- Libraries/Framework: *torch-scatter*, *torch-sparse*, *PyTorch*, *PyTorch Geometric*, and *PyTest*
+- <p>Libraries/Framework: <i>torch-scatter</i>, <i>torch-sparse</i>, <i>PyTorch</i>, <i>PyTorch Geometric</i>, and<br>
+  <i>PyTest</i></p>
