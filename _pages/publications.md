@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Towards Automated Evaluation of Explanations in Graph Neural Networks
+### Towards Automated Evaluation of Explanations in Graph Neural Networks&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img align="right" src="../files/icml.PNG" width=300px height=200px>
 
