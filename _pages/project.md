@@ -48,8 +48,7 @@ similar semantic features attain higher similarity scores.
 - Used a *pre-trained BERT model* to generate two different, yet semantically similar representations for each
 input sentence with minimal variation.
 - <p>To compute the degree of similarity between these latent representations, employed a <i>cosine<br>
-  similarity-based
-contrastive metric</i></p>.
+  similarity-based contrastive metric</i></p>.
 - Libraries/Framework: *Scikit-learn*, *Tensorflow*, *Numpy*, *Pandas*, and *Transformers*
   
 ### Zero-shot Question Answering with Large Language Models   [[Code](https://github.com/fork123aniket/Zero-Shot-Question-Answering)]
