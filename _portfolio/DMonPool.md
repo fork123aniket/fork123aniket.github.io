@@ -3,7 +3,7 @@ title: "Clustering for Graph-structured Data using Graph Neural Networks"
 collection: opensource
 ---
 
-<img align="right" src="../files/pool.PNG" width=200px height=120px>
+<!--<img align="right" src="../files/pool.PNG" width=200px height=120px>-->
 
 - This contribution relates to adding up a fast, yet effective graph clustering technique to PyTorch Geometric library
 based on **Spectral Modularity Maximization**.
