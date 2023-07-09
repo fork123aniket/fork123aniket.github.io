@@ -4,7 +4,7 @@ title: "Relational Graph Attention Networks"
 collection: opensource
 ---
 
-<img align="right" src="../files/rgat.PNG" width=300px height=200px>
+<!--<img align="right" src="../files/rgat.PNG" width=300px height=200px>-->
 
 - This contribution relates to bringing attention to heterogeneous (relational) graphs and incorporating this
 relation-aware attention operator into PyTorch Geometric Library.
