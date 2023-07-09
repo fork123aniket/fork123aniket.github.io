@@ -75,7 +75,7 @@ author_profile: true
 	synthetic bugs corpus strongly recommended the complete elimination of manual detection of similar bugs.
 ---
 
-<img align="right" src="../files/ibmsystems.jpg" width=200px height=100px>
+<img align="right" src="../files/ibmsystemstorage.png" width=200px height=100px>
 
 **Organization: *IBM Systems Development Lab, India***
 - ***Apr 2022 - June 2023: Software Developer***
