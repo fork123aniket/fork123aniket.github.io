@@ -3,7 +3,7 @@ title: "Model-agnostic Graph Explainability"
 collection: opensource
 ---
 
-<img align="right" src="../files/gmask.PNG" width=300px height=100px>
+<!--<img align="right" src="../files/gmask.PNG" width=300px height=100px>-->
 
 - This contribution aims at adding a **Graph Explainability solution** powered by **hard-concrete distribution** to PyTorch Geometric.
 based on **Spectral Modularity Maximization**.
