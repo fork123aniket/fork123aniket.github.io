@@ -34,9 +34,7 @@ descriptions. It is also able to contain necessary details and vivid object part
 images.
 - Given the text description, the **Stage-1 GAN** forms the primitive shape and colors of the object. It puts less
 emphasis on the quality of the image being formed, thereby yielding a low-resolution image.
-- The **Stage-2 GAN** takes *Stage-1 results* and text descriptions as inputs and generates high-resolution images
-with photo-realistic details and thus can rectify defects in *Stage-1 results* and add compelling details with the
-refinement process.
+- <p>The <b>Stage-2 GAN</b> takes <i>Stage-1 results</i> and text descriptions as inputs and generates high-resolution images with photo-realistic details and thus can rectify defects in <i>Stage-1 results</i> and add compelling details with the refinement<br> process.</p>
 - Libraries/Framework: *Keras*, *Tensorflow*, *Numpy*, *Pandas*, and *Matplotlib*
 
 ### An Unsupervised Approach to Generate Sentence Embeddings   [[Code](https://github.com/fork123aniket/Contrastive-Learning-for-Sentence-Embeddings)]
