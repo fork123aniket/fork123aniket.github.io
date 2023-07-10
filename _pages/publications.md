@@ -11,7 +11,7 @@ author_profile: true
 
 ### Towards Automated Evaluation of Explanations in Graph Neural Networks
 
-<img align="right" src="../files/icml.PNG" width=300px height=200px hspace="100">
+<img align="right" src="../files/icml.PNG" width=300px height=200px hspace="50">
 
 Published in *ICML Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI,* 2021
 
@@ -19,9 +19,9 @@ Explaining Graph Neural Networks predictions to end users of AI applications in 
 
 [ArXiv](https://arxiv.org/abs/2106.11864)/[Presentation](https://www.youtube.com/watch?v=oKo5be6AvHU)/[IBM Research Showcase](https://research.ibm.com/publications/towards-automated-evaluation-of-explanations-in-graph-neural-networks)
 
-<img align="right" src="../files/ops.PNG" width=300px height=100px hspace="100">
-
 ### Optimal Partition Search
+
+<img align="right" src="../files/ops.PNG" width=300px height=100px hspace="50">
 
 Published in *IEEE International Conference on Electrical, Computer and Communication Technologies (ICECCT),* 2019
 
@@ -29,9 +29,9 @@ In the field of search algorithms, choosing an optimal partition that takes much
   
 [IEEE Xplore](https://ieeexplore.ieee.org/document/8869459)/[ResearchGate](https://www.researchgate.net/publication/336638736_Optimal_Partition_Search)/[Code](https://github.com/fork123aniket/Optimal-Partition-Search)/[PyPI](https://pypi.org/project/Optimal-Partition-Search/0.0.1/)
 
-<img align="right" src="../files/deepcoder.PNG" width=200px height=120px hspace="100">
-
 ### DeepCoder: An Approach to Write Programs
+
+<img align="right" src="../files/deepcoder.PNG" width=200px height=120px hspace="50">
 
 Published in *International Journal of Engineering and Manufacturing Science,* 2017
 
