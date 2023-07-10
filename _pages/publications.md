@@ -21,6 +21,8 @@ Explaining Graph Neural Networks predictions to end users of AI applications in 
 
 [ArXiv](https://arxiv.org/abs/2106.11864)/[Presentation](https://www.youtube.com/watch?v=oKo5be6AvHU)/[IBM Research Showcase](https://research.ibm.com/publications/towards-automated-evaluation-of-explanations-in-graph-neural-networks)
 
+<hr style="border:2px solid gray">
+
 ### Optimal Partition Search
 
 <img align="right" src="../files/ops.PNG" width=300px height=100px hspace="50">
@@ -30,6 +32,8 @@ Published in *IEEE International Conference on Electrical, Computer and Communic
 In the field of search algorithms, choosing an optimal partition that takes much less time to search a desired element in an array in comparison with other partitions is a daunting task. Traditional search algorithms such as binary search and quadratic search do not always perform better in the arrays having arbitrary size. This paper aims to develop an algorithm that gives the optimal partition to use in the array so that it fetches the desired element in an optimal time. The basic approach to implement this algorithm is taken from binary search but done the search by considering partitions starting from two up to the size of the array and calculating the searching time taken by each and every partition to search the desired element that is further compared with searching times taken by all other partitions. As a result, the algorithm then finds the optimal partition. The results show that the proposed algorithm performs well by means of giving the optimal partition on the basis of an input array having arbitrary size and an item to be searched. The basic difference between traditional searching algorithms and the proposed algorithm is that those algorithms are used for searching the desired element, but this algorithm finds the partition that searches the desired element in minimum time which makes this algorithm a generalized version of all partition searching algorithms such as linear search, binary search, and quadratic search. Moreover,this algorithm can be used as a preprocessing step for finding optimal partition and then apply searching algorithm using that partition in order to search the desired element in minimum time. Overall, the conclusion is that the optimization concept applied in this work allows finding the most favorable partition for searching an element in the array. This work can provide beneficial guidance for using search algorithms correctly in actual search space.
   
 [IEEE Xplore](https://ieeexplore.ieee.org/document/8869459)/[ResearchGate](https://www.researchgate.net/publication/336638736_Optimal_Partition_Search)/[Code](https://github.com/fork123aniket/Optimal-Partition-Search)/[PyPI](https://pypi.org/project/Optimal-Partition-Search/0.0.1/)
+
+<hr style="border:2px solid gray">
 
 ### DeepCoder: An Approach to Write Programs
 
