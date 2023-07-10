@@ -26,7 +26,7 @@ author_profile: true
 	prediction made by the prediction algorithms.
 ---
 
-<img align="right" src="../files/tudortmund.png" width=200px>
+<img align="right" src="../files/tudortmund.png" width=200px hspace="50">
 
 **Organization: *Technical University of Dortmund, Germany***
 - ***Dec 2020 - June 2021: Research Intern***
