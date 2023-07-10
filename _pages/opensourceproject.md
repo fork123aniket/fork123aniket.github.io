@@ -13,7 +13,7 @@ author_profile: true
 
 <img align="right" src="../files/pool.PNG" width=200px height=120px hspace="50">
 
-- This contribution relates to adding up a fast, yet effective graph clustering technique to PyTorch Geometric library
+- This contribution relates to adding up a fast, yet effective graph clustering technique to *PyTorch Geometric* library
 based on **Spectral Modularity Maximization**.
 - A multi-layer graph convolutional network (GCN) is used to learn the hidden representations of each of the nodes
 in the graph.
@@ -26,7 +26,7 @@ in the graph.
 
 <img align="right" src="../files/gmask.PNG" width=300px height=100px hspace="50">
 
-- This contribution aims at adding a **Graph Explainability solution** powered by **hard-concrete distribution** to PyTorch Geometric.
+- This contribution aims at adding a **Graph Explainability solution** powered by **hard-concrete distribution** to *PyTorch Geometric*.
 based on **Spectral Modularity Maximization**.
 - <p>Implemented a <i>post-hoc model-agnostic graph explainability</i> technique, which,<br> 
   at every hidden layer of the GNN model, computed explanation weights for<br> 
@@ -42,7 +42,7 @@ based on **Spectral Modularity Maximization**.
 <img align="right" src="../files/rgat.PNG" width=300px height=200px hspace="50">
 
 - This contribution relates to bringing attention to heterogeneous (relational) graphs and incorporating this
-relation-aware attention operator into PyTorch Geometric Library.
+relation-aware attention operator into *PyTorch Geometric* Library.
 - Offers two different mechanisms to compute attention for relational graphs, i.e. **within-relation** and **across-relation**.
 - <p>This implementation also provides four different cardinality preservation options<br>
   (<b>additive</b>, <b>scaled</b>, <b>f-additive</b>, and <b>f-scaled</b>) to further improve attention<br> 
