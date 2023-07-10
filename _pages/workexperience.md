@@ -24,6 +24,7 @@ author_profile: true
   - Implemented an explainability solution by computing Shapley values for the features present in the dataset using
 	the Scikit-Learn library. Features that had higher Shapley values had been considered more important for the
 	prediction made by the prediction algorithms.
+
 ---
 
 <img align="right" src="../files/tudortmund.png" width=200px hspace="50">
