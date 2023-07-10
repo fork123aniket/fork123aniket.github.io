@@ -7,7 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-<img align="right" src="../files/icml.PNG" width=300px height=200px>
+<!--<img align="right" src="../files/icml.PNG" width=300px height=200px>-->
+
+![img](https://github.com/fork123aniket/fork123aniket.github.io/blob/master/files/icml.PNG){: width="300px" height="200px" style="float:right; padding-left:200px" }
 
 ### Towards Automated Evaluation of Explanations in Graph Neural Networks&nbsp;&nbsp;&nbsp;&nbsp;
 
