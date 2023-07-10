@@ -19,6 +19,8 @@ Below is a non-exhaustive list of my non-research projects. You can also check o
 image classification by mapping the image similarity task into a fully-supervised classification learning task.
 - Libraries/Framework: *Numpy*, *Matplotlib*, *PyTorch*, and *TorchVision*
 
+<hr style="border:2px solid gray">
+
 ### Molecule Graph Generation   [[Code](https://github.com/fork123aniket/Molecule-Graph-Generation)]
 
 <img align="right" src="../files/vgae.png" width=200px hspace="50">
@@ -26,7 +28,9 @@ image classification by mapping the image similarity task into a fully-supervise
 - Implemented *Graph Convolutional Networks-based Variational Graph AutoEncoders* to **generate new molecular graphs** that possess similar statistical distribution as that of the learned distribution of molecular graphs (used
 to train the model).
 - Libraries/Framework used: *PyTorch*, *PyTorch Geometric*, *Numpy*, and *NetworkX*
-  
+
+<hr style="border:2px solid gray">
+
 ### Text-to-Image Generation using GANs   [[Code](https://github.com/fork123aniket/Text-to-Image-Synthesis-using-StackGANs)]
 
 <img align="right" src="../files/stagegan.png" width=200px hspace="50">
@@ -39,6 +43,8 @@ emphasis on the quality of the image being formed, thereby yielding a low-resolu
 - <p>The <b>Stage-2 GAN</b> takes <i>Stage-1 results</i> and text descriptions as inputs and generates high-resolution images with photo-realistic details and thus can rectify defects in <i>Stage-1 results</i> and add compelling details with the refinement<br> process.</p>
 - Libraries/Framework: *Keras*, *Tensorflow*, *Numpy*, *Pandas*, and *Matplotlib*
 
+<hr style="border:2px solid gray">
+
 ### An Unsupervised Approach to Generate Sentence Embeddings   [[Code](https://github.com/fork123aniket/Contrastive-Learning-for-Sentence-Embeddings)]
 
 <img align="right" src="../files/bert.jpg" width=200px hspace="50">
@@ -50,7 +56,9 @@ input sentence with minimal variation.
 - <p>To compute the degree of similarity between these latent representations, employed a <i>cosine<br>
   similarity-based contrastive metric</i>.</p>
 - Libraries/Framework: *Scikit-learn*, *Tensorflow*, *Numpy*, *Pandas*, and *Transformers*
-  
+
+<hr style="border:2px solid gray">
+
 ### Zero-shot Question Answering with Large Language Models   [[Code](https://github.com/fork123aniket/Zero-Shot-Question-Answering)]
 
 <img align="right" src="../files/zeroshot.jpg" width=200px hspace="50">
