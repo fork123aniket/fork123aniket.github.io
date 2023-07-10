@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+---
+
 ### Clustering for Graph-structured Data using Graph Neural Networks   [[PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.nn.dense.DMoNPooling.html#torch_geometric.nn.dense.DMoNPooling)/[Code](https://github.com/fork123aniket/Graph-Clustering-using-Graph-Neural-Networks-from-scratch)]
 
 <img align="right" src="../files/pool.PNG" width=200px height=120px hspace="50">
