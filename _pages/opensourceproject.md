@@ -9,7 +9,7 @@ author_profile: true
 
 ### Clustering for Graph-structured Data using Graph Neural Networks   [[PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.nn.dense.DMoNPooling.html#torch_geometric.nn.dense.DMoNPooling)/[Code](https://github.com/fork123aniket/Graph-Clustering-using-Graph-Neural-Networks-from-scratch)]
 
-<img align="right" src="../files/pool.PNG" width=200px height=120px>
+<img align="right" src="../files/pool.PNG" width=200px height=120px hspace="50">
 
 - This contribution relates to adding up a fast, yet effective graph clustering technique to PyTorch Geometric library
 based on **Spectral Modularity Maximization**.
@@ -22,7 +22,7 @@ in the graph.
 
 ### Model-agnostic Graph Explainability   [[PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/modules/contrib.html#torch_geometric.contrib.explain.GraphMaskExplainer)/[Code](https://github.com/fork123aniket/Model-agnostic-Graph-Explainability-from-Scratch)]
 
-<img align="right" src="../files/gmask.PNG" width=300px height=100px>
+<img align="right" src="../files/gmask.PNG" width=300px height=100px hspace="50">
 
 - This contribution aims at adding a **Graph Explainability solution** powered by **hard-concrete distribution** to PyTorch Geometric.
 based on **Spectral Modularity Maximization**.
@@ -37,7 +37,7 @@ based on **Spectral Modularity Maximization**.
   
 ### Relational Graph Attention Networks   [[PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.nn.conv.RGATConv.html#torch_geometric.nn.conv.RGATConv)/[Code](https://github.com/fork123aniket/Relational-Graph-Attention-from-Scratch)]
 
-<img align="right" src="../files/rgat.PNG" width=300px height=200px>
+<img align="right" src="../files/rgat.PNG" width=300px height=200px hspace="50">
 
 - This contribution relates to bringing attention to heterogeneous (relational) graphs and incorporating this
 relation-aware attention operator into PyTorch Geometric Library.
