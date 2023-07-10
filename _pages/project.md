@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+---
+
 Below is a non-exhaustive list of my non-research projects. You can also check out a complete list of my projects [here](https://github.com/fork123aniket?tab=repositories).
 
 ### Contrastive Learning-based Few-shot Image Classification   [[Code](https://github.com/fork123aniket/Visual-Contrastive-Learning-for-Few-shot-Image-Classification)]
