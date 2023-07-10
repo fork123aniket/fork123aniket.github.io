@@ -36,7 +36,8 @@ author_profile: true
 	retraining to generalize explanations to new instances for both node as well as graph classification tasks.
   - The framework takes a trained GNN model along with some meta-data information of the input graph as input,
 	computes layer-wise edge importance weights, and outputs an explanatory subgraph.
----
+
+<hr style="border:2px solid gray">
 
 <img align="right" src="../files/ibmresearch.png" width=200px>
 
@@ -59,7 +60,8 @@ author_profile: true
 	Moreover, the framework takes into account the primitive structure as well as node embeddings of each entity’s
 	heterogeneous graphs to cluster the nodes according to the graph topology (nodes in the same cluster should be
 	strongly connected) and to the node features (nodes in the same cluster should have similar features).
----
+
+<hr style="border:2px solid gray">
 
 <img align="right" src="../files/ibmresearchzurich.png" width=200px>
 
@@ -74,7 +76,8 @@ author_profile: true
 	textual similarity indexing, which is governed by these computed scores.
   - Included main measures to evaluate the approach (e.g. novel and repeated). Experiments conducted on the
 	synthetic bugs corpus strongly recommended the complete elimination of manual detection of similar bugs.
----
+
+<hr style="border:2px solid gray">
 
 <img align="right" src="../files/newibmsystemstorage.png" width=200px height=100px>
 
