@@ -7,11 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-<img align="right" src="../files/icml.PNG" width=300px height=200px hspace="100">
+<!--<img align="right" src="../files/icml.PNG" width=300px height=200px hspace="100">-->
 
 ### Towards Automated Evaluation of Explanations in Graph Neural Networks
 
-<!--<img align="right" src="../files/icml.PNG" width=300px height=200px>-->
+<img align="right" src="../files/icml.PNG" width=300px height=200px hspace="100">
 
 Published in *ICML Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI,* 2021
 
