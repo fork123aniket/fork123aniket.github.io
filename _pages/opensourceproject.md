@@ -22,6 +22,8 @@ in the graph.
 - Designed and implemented unit tests to confirm the correctness of the clustering technique.
 - Libraries/Framework: *PyTorch*, *PyTorch Geometric*, and *PyTest*
 
+<hr style="border:2px solid gray">
+
 ### Model-agnostic Graph Explainability   [[PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/modules/contrib.html#torch_geometric.contrib.explain.GraphMaskExplainer)/[Code](https://github.com/fork123aniket/Model-agnostic-Graph-Explainability-from-Scratch)]
 
 <img align="right" src="../files/gmask.PNG" width=300px height=100px hspace="50">
@@ -36,7 +38,9 @@ based on **Spectral Modularity Maximization**.
 - <p>Implemented custom unit tests to ensure proper execution of the Graph<br>
   Explainability technique.</p>
 - Libraries/Framework: *Numpy*, *tqdm*, *PyTorch*, *PyTorch Geometric*, and *PyTest*
-  
+
+<hr style="border:2px solid gray">
+
 ### Relational Graph Attention Networks   [[PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.nn.conv.RGATConv.html#torch_geometric.nn.conv.RGATConv)/[Code](https://github.com/fork123aniket/Relational-Graph-Attention-from-Scratch)]
 
 <img align="right" src="../files/rgat.PNG" width=300px height=200px hspace="50">
