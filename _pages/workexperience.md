@@ -25,7 +25,7 @@ author_profile: true
 	the Scikit-Learn library. Features that had higher Shapley values had been considered more important for the
 	prediction made by the prediction algorithms.
 
----
+<hr style="border:2px solid gray">
 
 <img align="right" src="../files/tudortmund.png" width=200px hspace="50">
 
