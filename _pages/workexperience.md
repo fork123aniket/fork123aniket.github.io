@@ -27,7 +27,7 @@ author_profile: true
 
 <hr style="border:2px solid gray">
 
-<img align="right" src="../files/tudortmund.png" width=200px hspace="85">
+<img align="right" src="../files/tudortmund.png" width=200px hspace="25">
 
 **Organization: *Technical University of Dortmund, Germany***
 - ***Dec 2020 - June 2021: Research Intern***
