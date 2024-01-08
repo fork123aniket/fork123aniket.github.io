@@ -28,8 +28,9 @@ Below is a list of my production-ready deployed apps. You can also check out a c
 
 <img align="right" src="../files/App Architecture.jpg" width=200px hspace="50">
 
-- Fine-tuned a 20B parameters Large Language Model (LLM) by leveraging the distributed training paradigm.
+- Fine-tuned a 20B parameters Large Language Model (LLM) in a multi-GPU cluster environment by leveraging the distributed training paradigm.
 - Developed a production-ready, scalable Retrieval Augmented Generation (RAG)-based context-aware Question Answering (QA) App that first finds contexts relevant to the incoming query by implementing fast vector similarity search within the pre-defined embedding space and then sends these contexts alongside the query to the fine-tuned LLM model to generate the answer.
+- Implemented scalable major ML workloads for contexts (load, embed, and index the contexts in the vector database) across multiple workers with different compute resources and served the LLM App in a highly robust and scalable manner.
 - Libraries/Framework used: *PyTorch*, *Transformers*, *Ray*, *LangChain*, and *FastAPI*
 - Below video shows the deployed LLM app in action:
 
