@@ -21,6 +21,9 @@ main:
   - title: "Open Source"
     url: /opensourceproject/
 
+  - title: "Deployed ML Apps"
+    url: /deployed_apps/
+
   - title: "Work Experience"
     url: /workexperience/
         
