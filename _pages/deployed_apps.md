@@ -34,4 +34,4 @@ https://github.com/fork123aniket/fork123aniket.github.io/assets/92912434/ae74e66
 - Libraries/Framework used: *PyTorch*, *Transformers*, *Ray*, *LangChain*, and *FastAPI*
 - Below video shows the deployed LLM app in action:
 
-[RAG-powered LLM App.webm](https://github.com/fork123aniket/fork123aniket.github.io/assets/92912434/df0a2876-3033-4cbb-b006-63529db139c7)
+<iframe width="420" height="315" src="https://github.com/fork123aniket/fork123aniket.github.io/assets/92912434/df0a2876-3033-4cbb-b006-63529db139c7" frameborder="0" allowfullscreen></iframe>
