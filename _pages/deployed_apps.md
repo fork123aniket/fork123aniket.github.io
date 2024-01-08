@@ -18,6 +18,9 @@ Below is a list of my production-ready deployed apps. You can also check out a c
 - Developed and deployed an end-to-end Node and Graph classification app, which classifies a node or a graph on different datasets (*Cora* and *ENZYMES*).
 - Utilized an abstract variant of *Binomial Distribution* to compute feature and edge importance weights that result in providing explained feature mask and explanation subgraph.
 - Libraries/Framework: *PyTorch*, *PyTorch Geometric*, *DVC*, *MLFlow*, *Optuna*, and *Streamlit*
+- Below video shows the deployed Graph Representation Learning app in action:
+
+
 
 <hr style="border:2px solid gray">
 
@@ -28,3 +31,6 @@ Below is a list of my production-ready deployed apps. You can also check out a c
 - Fine-tuned a 20B parameters Large Language Model (LLM) by leveraging the distributed training paradigm.
 - Developed a production-ready, scalable Retrieval Augmented Generation (RAG)-based context-aware Question Answering (QA) App that first finds contexts relevant to the incoming query by implementing fast vector similarity search within the pre-defined embedding space and then sends these contexts alongside the query to the fine-tuned LLM model to generate the answer.
 - Libraries/Framework used: *PyTorch*, *Transformers*, *Ray*, *LangChain*, and *FastAPI*
+- Below video shows the deployed LLM app in action:
+
+[RAG-powered LLM App.webm](https://github.com/fork123aniket/fork123aniket.github.io/assets/92912434/df0a2876-3033-4cbb-b006-63529db139c7)
