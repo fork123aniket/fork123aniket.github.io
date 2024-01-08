@@ -15,7 +15,7 @@ Below is a list of my production-ready deployed apps. You can also check out a c
 
 <img align="right" src="../files/Graph Explainability.png" width=200px hspace="50"> 
 
-- Developed an end-to-end Node and Graph classification app, which classifies a node or a graph on different datasets (*Cora* and *ENZYMES*).
+- Developed and deployed an end-to-end Node and Graph classification app, which classifies a node or a graph on different datasets (*Cora* and *ENZYMES*).
 - Utilized an abstract variant of *Binomial Distribution* to compute feature and edge importance weights that result in providing explained feature mask and explanation subgraph.
 - Libraries/Framework: *PyTorch*, *PyTorch Geometric*, *DVC*, *MLFlow*, *Optuna*, and *Streamlit*
 
