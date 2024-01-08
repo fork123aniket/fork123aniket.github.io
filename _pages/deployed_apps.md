@@ -20,6 +20,7 @@ Below is a list of my production-ready deployed apps. You can also check out a c
 - Libraries/Framework: *PyTorch*, *PyTorch Geometric*, *DVC*, *MLFlow*, *Optuna*, and *Streamlit*
 - Below video shows the deployed Graph Representation Learning app in action:
 
+https://github.com/fork123aniket/fork123aniket.github.io/assets/92912434/ae74e66a-2057-429e-bc68-23e60e1c8ea7
 
 
 <hr style="border:2px solid gray">
