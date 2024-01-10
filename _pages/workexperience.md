@@ -53,7 +53,7 @@ author_profile: true
 **Organization: *IBM Research, Zurich***
 - ***Feb 2021 - Dec 2021: Research Associate***
   - Developed a novel unsupervised contrastive learning-based approach for the detection of similar bugs to facilitate
-	faster log analysis. The approach extracts documents from the corpus of bug text, learns a latent representation
+	faster log analysis. The approach extracts documents from the corpus of bug text and then implements Text Variational Autoencoders (T-VAEs)-based 		unsupervised anomaly detection technique to detect anomalies in the bugs corpus. Subsequently, learns a latent representation
 	using a pre-trained BERT language model to form a document embedding for each document, and then measures
 	the degree of similarity between these learned document embeddings of all extracted documents using newly
 	proposed Word Centroids (WC) and Word Mover Distance (WMD) algorithms.
@@ -69,7 +69,7 @@ author_profile: true
 **Organization: *IBM Systems Development Lab, India***
 - ***Apr 2022 - June 2023: Software Developer***
   - Created a multivariate time series-based neural learning framework for predicting the capacity of storage systems.
-  - Utilized generic machine learning algorithms (LSTM, Linear Regression, and RNN) to impeccably predict run-out memory times of storage systems in the resources 	pool.
+  - Utilized generic machine learning algorithms (LSTM, GRU, and RNN) to impeccably predict run-out memory times of storage systems in the resources 	pool.
   - Developed a novel approach to segment storage systems based on their respective predicted behaviors in terms of average growth in usable capacity over a 		specific forecasting window period, which in turn helped fill the missing data present in the time series.
   - Designed and implemented pipelines for various stages of development, starting from extracting high-dimensional data in the form of multivariate time series 	(with underlying non-continuous dynamic) from a storage data lake to deploying the whole approach as a fully functional ML-powered product accessible to 	numerous customers. Work done in close collaboration with *IBM Research, Almaden*.
 
