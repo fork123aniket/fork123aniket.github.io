@@ -38,7 +38,7 @@ author_profile: true
   - Worked on creating a framework to transform the domain-specific ontologies into large-scale enterprise heterogeneous knowledge graphs (each comprises billions 	of nodes and edges connecting them). The framework consumes an ontology as a property graph (unique to different domains), models the various available 	relations in the knowledge graph using a multi-layered Relational Graph Convolutional Network (RGCN), and generates a domain-level importance weight for 	each relation present in the input relational graph as output.
   - To make the overall approach interpretable, introduced an explainability component in the framework to produce human-intelligible explanations for every single 	prediction being made for the input knowledge graph.
   - Developed and analyzed an automated approach to further evaluate GNN explanations to boost their applicability to end users, thereby promoting the creation of 	more complex as well as trusted AI systems for the Graph-structured domain. Work got published in the [<ins>**_Explainable AI Workshop at ICML 2021_**</ins>](https://arxiv.org/html/2107.08821#:~:text=title%3A%20towards%20automated%20evaluation%20of%20explanations%20in%20graph%20neural%20networks).
-  - The developed framework was also employed to create a novel large-scale graph representation learning dataset called the _TACRED people_ dataset, which is 		being used by other teams in the lab to accelerate graph ML research.
+  - Deployed the developed framework as a production-ready API that was also employed to create a novel large-scale graph representation learning dataset called 	the _TACRED people_ dataset, which is being used by other teams in the lab to accelerate graph ML research.
   - Developed and implemented an unsupervised and computationally light framework that facilitates clustering to
 	partition each heterogeneous graph associated with every single entity present in Master Data to generate the
 	smallest possible graph sub-structures for each entity having only monumental similar nodes clustered together.
@@ -61,6 +61,8 @@ author_profile: true
 	textual similarity indexing, which is governed by these computed scores.
   - Included main measures to evaluate the approach (e.g. novel and repeated). Experiments conducted on the
 	synthetic bugs corpus strongly recommended the complete elimination of manual detection of similar bugs.
+  - Implemented the devised method as a real-time product functionality, accessible to a wide customer base.
+
 
 <hr style="border:2px solid gray">
 
@@ -71,5 +73,5 @@ author_profile: true
   - Created a multivariate time series-based neural learning framework for predicting the capacity of storage systems.
   - Utilized generic machine learning algorithms (LSTM, GRU, and RNN) to impeccably predict run-out memory times of storage systems in the resources 	pool.
   - Developed a novel approach to segment storage systems based on their respective predicted behaviors in terms of average growth in usable capacity over a 		specific forecasting window period, which in turn helped fill the missing data present in the time series.
-  - Designed and implemented pipelines for various stages of development, starting from extracting high-dimensional data in the form of multivariate time series 	(with underlying non-continuous dynamic) from a storage data lake to deploying the whole approach as a fully functional ML-powered product accessible to 	numerous customers. Work done in close collaboration with *IBM Research, Almaden*.
+  - Designed and implemented pipelines for various stages of development, starting from extracting high-dimensional data in the form of multivariate time series 	(with underlying non-continuous dynamic) from a storage data lake to deploying the whole approach as a fully functional ML-powered product feature with low 	latency and high throughput for wide customer access in real-time. Work done in close collaboration with *IBM Research, Almaden*.
 
