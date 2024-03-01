@@ -11,7 +11,7 @@ author_profile: true
 
 Below is a list of my production-ready deployed apps. You can also check out a complete list of my other machine learning projects [here](https://github.com/fork123aniket?tab=repositories).
 
-### Graph Representation Learning for Classification   [[Code](https://github.com/fork123aniket/End-to-End-Node-and-Graph-Classification-and-Explanation-App)] [[Deployed App](https://graph-explainability.streamlit.app/)]
+<!--### Graph Representation Learning for Classification   [[Code](https://github.com/fork123aniket/End-to-End-Node-and-Graph-Classification-and-Explanation-App)] [[Deployed App](https://graph-explainability.streamlit.app/)]
 
 <img align="right" src="../files/Graph Explainability.png" width=200px hspace="50"> 
 
@@ -22,7 +22,7 @@ Below is a list of my production-ready deployed apps. You can also check out a c
 
 <iframe width="700" height="300" src="https://github.com/fork123aniket/fork123aniket.github.io/assets/92912434/ae74e66a-2057-429e-bc68-23e60e1c8ea7" frameborder="0" allowfullscreen></iframe>
 
-<hr style="border:2px solid gray">
+<hr style="border:2px solid gray">-->
 
 ### LLM-RAG-powered-QA-App   [[Code](https://github.com/fork123aniket/LLM-RAG-powered-QA-App)]
 
