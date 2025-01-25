@@ -43,7 +43,7 @@ author_profile: true
   - Created and optimized online inference approach to quickly serve the incoming requests for storage systems' capacity predictions at scale, leading to a 70% decrease in the framework's time to respond to user traffic requests.
   - Introduced the entire framework as a fully operational machine learning-driven IBM Storage Insights product feature with low latency and high throughput, serving numerous customers' requests in real-time.
 
-*Skills/Tools:* TensorFlow, Time-Series Forecasting, SQL, AWS (DVC, EC2, Lambda, S3, CI/CD, Cloud Watch, SNS, API Gateway), Kubernetes (AWS EKS and KubeFlow), Apache Spark, MLFlow, Git, Problem-Solving, MLOps, Research Skills
+*Skills/Tools:* TensorFlow, Time-Series Forecasting, SQL, AWS (DVC, EC2, Elastic MapReduce, Lambda, S3, CI/CD, Cloud Watch, SNS, API Gateway), Kubernetes (AWS EKS and KubeFlow), Apache Spark, MLFlow, Git, Problem-Solving, MLOps, Research Skills
 
 <hr style="border:2px solid gray">
 
@@ -58,7 +58,7 @@ author_profile: true
   - Included main measures to evaluate the approach (e.g. novel and repeated). Experiments conducted on the bugs corpus strongly recommended the 100% elimination of manual detection of similar bugs. This transition not only resulted in an impressive 85% reduction in response time to address client-reported bugs but also empowered the support team to focus solely on handling new and unique bug instances.
   - Rolled out the devised method as a real-time IBM Storage Insights product feature functionality, accessible to a broad customer spectrum.
 
-*Skills/Tools:* PyTorch, NLP, Anomaly Detection, PostgreSQL, AWS (DVC, EC2, Lambda, S3, SageMaker, CI/CD, Cloud Watch, SNS, API Gateway), Kubernetes (AWS EKS and KubeFlow), HuggingFace, Apache Spark & Kafka, Model Compression & Quantization, Problem-Solving, MLOps, Research & Leadership Skills
+*Skills/Tools:* PyTorch, NLP, Anomaly Detection, PostgreSQL, AWS (DVC, EC2, Elastic MapReduce, Lambda, S3, SageMaker, CI/CD, Cloud Watch, SNS, API Gateway), Kubernetes (AWS EKS and KubeFlow), HuggingFace, Apache Spark & Kafka, Model Compression & Quantization, Problem-Solving, MLOps, Research & Leadership Skills
 
 <hr style="border:2px solid gray">
 
