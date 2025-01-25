@@ -26,16 +26,6 @@ Below is a non-exhaustive list of my non-research projects. You can also check o
 
 <hr style="border:2px solid gray">
 
-<!--### Visual Contrastive Learning-based Few-shot Image Classification   [[Code](https://github.com/fork123aniket/Visual-Contrastive-Learning-for-Few-shot-Image-Classification)]
-
-<img align="right" src="../files/siamesenetworks.png" width=200px hspace="50">
-
-- Defined a custom contrastive loss and trained a **few-shot** version of Siamese Networks to do **n-way k-shot**
-image classification by mapping the image similarity task into a fully-supervised classification learning task.
-- Libraries/Framework: *Numpy*, *Matplotlib*, *PyTorch*, and *TorchVision*
-
-<hr style="border:2px solid gray">-->
-
 ### Visual Contrastive Learning-based Few-shot Image Classification   [[Code](https://github.com/fork123aniket/Visual-Contrastive-Learning-for-Few-shot-Image-Classification)]
 
 <img align="right" src="../files/siamesenetworks.png" width=200px hspace="50">
@@ -53,6 +43,17 @@ image classification by mapping the image similarity task into a fully-supervise
 - Implemented *Graph Convolutional Networks-based Variational Graph AutoEncoders* to **generate new molecular graphs** that possess similar statistical distribution as that of the learned distribution of molecular graphs (used
 to train the model).
 - Libraries/Framework used: *PyTorch*, *PyTorch Geometric*, *Numpy*, and *NetworkX*
+
+<hr style="border:2px solid gray">
+
+### Human Activity Recognition   [[Code](https://github.com/fork123aniket/Human-Activity-Recognition)]
+
+<img align="right" src="../files/img.jpg" width=200px hspace="50">
+
+- Developed a Human Activity Recognition system that utilizes a pre-trained 3D convolutional ResNet-34 model to identify activities in videos on a per-frame basis.
+- Trained on the Kinetics dataset, which includes 400 human activity classes and approximately 300,000 videos.
+- The framework can automatically classify video datasets, monitor compliance in food service environments, and oversee patron behavior in bars and restaurants.
+- Libraries/Framework: *Numpy* and *OpenCV*
 
 <hr style="border:2px solid gray">
 
