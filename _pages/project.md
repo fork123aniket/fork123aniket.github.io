@@ -22,7 +22,7 @@ Below is a non-exhaustive list of my non-research projects. You can also check o
   - integration of visual, text, and audio data for comprehensive interactions
   - maintenance of conversation context across multiple turns
   - real-time responses powered by Vision-Language multimodal models
-- Libraries/Framework: *Streamlit*, *vLLM Kernels*, *Google SpeechRecognition API*, *RunPod* and *OpenAI API*
+- Libraries/Framework: *Streamlit*, *vLLM Kernels*, *Google SpeechRecognition API*, *RunPod*, and *OpenAI API*
 
 <hr style="border:2px solid gray">
 
