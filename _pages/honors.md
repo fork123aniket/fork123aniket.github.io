@@ -8,7 +8,7 @@ author_profile: true
 
 ## Scholarships
 
-- Received *UdeM's Scholarship* for the Academic Year *2023-24*
+- Received *University of Montreal ‑ Academic Excellence Scholarship* for Academic Years *2023-24* and *2024-25*
 - Awarded *Academic Excellence Award* for exceptional performance during Academic Year *2015-2016*
 
 ## Awards & Recognition
