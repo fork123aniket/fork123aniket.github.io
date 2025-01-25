@@ -11,7 +11,32 @@ author_profile: true
 
 Below is a non-exhaustive list of my non-research projects. You can also check out a complete list of my projects [here](https://github.com/fork123aniket?tab=repositories).
 
-### Contrastive Learning-based Few-shot Image Classification   [[Code](https://github.com/fork123aniket/Visual-Contrastive-Learning-for-Few-shot-Image-Classification)]
+### Multi-Round VLM-powered Multimodal Conversational AI Navigation Bot   [[Code](https://github.com/fork123aniket/Multi-Round-VLM-powered-Multimodal-Conversational-AI-Navigation-Bot)]
+
+<img align="right" src="../files/multimodal.jpg" width=200px hspace="50">
+
+- An advanced AI chatbot that enables users to upload images and ask questions (primarily Navigation-oriented) via text or audio, receiving real-time responses in both formats.
+- Key features include:
+  - image upload and analysis
+  - speech-to-text conversion using the Google SpeechRecognition API
+  - integration of visual, text, and audio data for comprehensive interactions
+  - maintenance of conversation context across multiple turns
+  - real-time responses powered by Vision-Language multimodal models
+- Libraries/Framework: *Streamlit*, *vLLM Kernels*, *Google SpeechRecognition API*, *RunPod* and *OpenAI API*
+
+<hr style="border:2px solid gray">
+
+<!--### Visual Contrastive Learning-based Few-shot Image Classification   [[Code](https://github.com/fork123aniket/Visual-Contrastive-Learning-for-Few-shot-Image-Classification)]
+
+<img align="right" src="../files/siamesenetworks.png" width=200px hspace="50">
+
+- Defined a custom contrastive loss and trained a **few-shot** version of Siamese Networks to do **n-way k-shot**
+image classification by mapping the image similarity task into a fully-supervised classification learning task.
+- Libraries/Framework: *Numpy*, *Matplotlib*, *PyTorch*, and *TorchVision*
+
+<hr style="border:2px solid gray">-->
+
+### Visual Contrastive Learning-based Few-shot Image Classification   [[Code](https://github.com/fork123aniket/Visual-Contrastive-Learning-for-Few-shot-Image-Classification)]
 
 <img align="right" src="../files/siamesenetworks.png" width=200px hspace="50">
 
