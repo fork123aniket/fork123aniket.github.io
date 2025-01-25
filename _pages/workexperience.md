@@ -15,14 +15,14 @@ author_profile: true
 - ***May 2024 - Dec 2024: ML Engineer (Co-op)***
   - Designed and implemented ETL pipelines to process and prepare 3TB of unstructured image-text multimodal data for fine-tuning a Large Vision-Language Model (LVLM).
   - Developed an innovative Navigation System leveraging the fine-tuned LVLM and Agentic GenAI workflows to assist visually impaired users in navigating complex environments.
-  - Achieved a 32% improvement in navigation accuracy compared to the existing solution, alongside a 3\times reduction in system inference latency, driving a seamless and efficient user experience.
+  - Achieved a 32% improvement in navigation accuracy compared to the existing solution, alongside a 3$\times$ reduction in system inference latency, driving a seamless and efficient user experience.
   - Successfully deployed the devised method as a live product feature that resulted in a significant jump of 25% in retention rate.
 
 *Skills/Tools:* PyTorch, LVLM (Fine-Tuning, Evaluation, and Benchmark), RAG, Prompting, LangChain, LangGraph, NLP (HunggingFace Transformers), CV (Object detection and Navigation), Distributed Training (Ray and vLLM Kernels), Linux, ML Deployment
 
 <hr style="border:2px solid gray">
 
-<img align="right" src="../files/kumo_ai_logo.jpeg" width=200px hspace="10">
+<img align="right" src="../files/kumo_ai_logo.jpeg" width=70px hspace="10">
 
 **Organization: *Kumo.ai, Remote***
 - ***Mar 2023 - Aug 2023: Machine Learning Developer***
@@ -47,7 +47,7 @@ author_profile: true
 
 <hr style="border:2px solid gray">
 
-<img align="right" src="../files/ibmresearchzurich.png" width=200px>
+<img align="right" src="../files/irl.png" width=200px>
 
 **Organization: *IBM Research Europe***
 - ***Sept 2021 - Mar 2023: ML Research Software Engineer***
