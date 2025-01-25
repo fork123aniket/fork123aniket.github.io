@@ -13,7 +13,7 @@ author_profile: true
 
 ## Awards & Recognition
 
-- Felicitated by *2023 IBM Invention Achievement Award* for submitting two patent applications to the US Patent and Trademark Office, including one *first-inventor* Patent application
+- Felicitated by *2023 IBM Invention Achievement Award* for submitting two patent applications to the US Patent and Trademark Office
 - Awarded *IBM Service Excellence Award* for the year *2021-22*
 - Secured *First Division with Honors* at undergraduate level (*Bachelor of Technology (B.Tech)*) in *Computer Science and Engineering*
 - Featured on [PyTorch Geometric Release Page](https://github.com/pyg-team/pytorch_geometric/releases/tag/2.0.4) for my vital contributions to PyTorch Geometric library
