@@ -18,7 +18,7 @@ author_profile: true
   - Achieved a 32% improvement in navigation accuracy compared to the existing solution, alongside a 3$\times$ reduction in system inference latency, driving a seamless and efficient user experience.
   - Successfully deployed the devised method as a live product feature that resulted in a significant jump of 25% in retention rate.
 
-*Skills/Tools:* PyTorch, LVLM (Fine-Tuning, Evaluation, and Benchmark), RAG, Prompting, LangChain, LangGraph, NLP (HunggingFace Transformers), CV (Object detection and Navigation), Distributed Training (Ray and vLLM Kernels), Linux, ML Deployment
+**Skills/Tools:** *PyTorch, LVLM (Fine-Tuning, Evaluation, and Benchmark), RAG, Prompting, LangChain, LangGraph, NLP (HunggingFace Transformers), CV (Object detection and Navigation), Distributed Training (Ray and vLLM Kernels), Linux, MLOps (AWS Bedrock)*
 
 <hr style="border:2px solid gray">
 
@@ -30,7 +30,7 @@ author_profile: true
   - Designed and implemented unit tests to validate devised techniques' accuracy and efficiency.
   - Received an appreciation letter from Kumo's PyTorch Geometric toolkit's owner for making valuable contributions to their open-source library. [*View Letter*](https://github.com/fork123aniket/fork123aniket.github.io/blob/master/files/appreciation_letter.pdf)
 
-*Skills/Tools:* PyTorch, PyTorch Geometric (PyG), Graph Neural Networks (GNNs) Matplotlib, Scikit-learn, Critical Thinking, Research Skills
+**Skills/Tools:** *PyTorch, PyTorch Geometric (PyG), Graph Neural Networks (GNNs) Matplotlib, Scikit-learn, Critical Thinking, Research Skills*
 
 <hr style="border:2px solid gray">
 
@@ -44,7 +44,7 @@ author_profile: true
   - Created and optimized online inference approach to quickly serve the incoming requests for storage systems' capacity predictions at scale, leading to a 70% decrease in the framework's time to respond to user traffic requests.
   - Introduced the entire framework as a fully operational machine learning-driven IBM Storage Insights product feature with low latency and high throughput, serving numerous customers' requests in real-time.
 
-*Skills/Tools:* TensorFlow, Time-Series Forecasting, SQL, AWS (DVC, EC2, Elastic MapReduce, Lambda, S3, CI/CD, Cloud Watch, SNS, API Gateway), Kubernetes (AWS EKS and KubeFlow), Apache Spark, MLFlow, Git, Problem-Solving, MLOps, Research Skills
+**Skills/Tools:** *TensorFlow, Time-Series Forecasting, SQL, AWS (DVC, EC2, Lambda, S3, SageMaker, CI/CD, Cloud Watch, SNS, API Gateway), Kubernetes (Docker, AWS EKS, and KubeFlow), Apache Spark, MLFlow, Git, Problem-Solving, MLOps, Research Skills*
 
 <hr style="border:2px solid gray">
 
@@ -59,7 +59,7 @@ author_profile: true
   - Included main measures to evaluate the approach (e.g. novel and repeated). Experiments conducted on the bugs corpus strongly recommended the 100% elimination of manual detection of similar bugs. This transition not only resulted in an impressive 85% reduction in response time to address client-reported bugs but also empowered the support team to focus solely on handling new and unique bug instances.
   - Rolled out the devised method as a real-time IBM Storage Insights product feature functionality, accessible to a broad customer spectrum.
 
-*Skills/Tools:* PyTorch, NLP, Anomaly Detection, PostgreSQL, AWS (DVC, EC2, Elastic MapReduce, Lambda, S3, SageMaker, CI/CD, Cloud Watch, SNS, API Gateway), Kubernetes (AWS EKS and KubeFlow), HuggingFace, Apache Spark & Kafka, Model Compression & Quantization, Problem-Solving, MLOps, Research & Leadership Skills
+**Skills/Tools:** *PyTorch, NLP, Anomaly Detection, PostgreSQL, AWS (DVC, EC2, Lambda, S3, SageMaker, CI/CD, Cloud Watch, SNS, API Gateway), Kubernetes (Docker, AWS EKS, and KubeFlow), ML Explainability, HuggingFace, MLFlow, Apache Spark & Kafka, Model Compression & Quantization, Problem-Solving, MLOps, Research & Leadership Skills*
 
 <hr style="border:2px solid gray">
 
@@ -72,7 +72,7 @@ author_profile: true
   - Filed 2 patents: (i) Secure graph learning for classifying data ontologies; (ii) Faster deduplication of records to improve customer-specific assets in Data Fabric.
   - Developed a lightweight unsupervised framework for clustering heterogeneous graphs in Master Data, generating minimal sub-structures with highly similar nodes. The framework leverages graph topology and node embeddings to ensure clusters are both strongly connected and feature-similar.
 
-*Skills/Tools:* PyTorch, PyTorch Geometric, Graph Neural Networks, Classification & Clustering for Graph Data, NetworkX, IBM Cloud Pak for Data (CP4D), Linux, Git, REST API, Problem-Solving, Research & Brainstorming Skills, Critical Thinking
+**Skills/Tools:** *PyTorch, PyTorch Geometric, Graph Neural Networks, Classification & Clustering for Graph Data, NetworkX, IBM Cloud Pak for Data (CP4D), Linux, Git, REST API, Problem-Solving, Research & Brainstorming Skills, Critical Thinking*
 
 <hr style="border:2px solid gray">
 
@@ -86,4 +86,4 @@ author_profile: true
   - Optimized the developed ML platform by implementing an explainability solution to identify influential features in the data for the prediction algorithm, resulting in improved trained ML model accuracy from 65% to 86% for both TC Rate and vessel trajectory prediction tasks.
   - Integrated a data visualization framework into the platform for creating intuitive as well as user-interactive visualizations and launched the developed machine learning platform for production use, allowing 2k+ end clients to discover, on the fly, daily patterns in vessels movement and track the regular impact of vessel trades on liquidity.
  
-*Skills/Tools:* PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy, SQL, Azure (CI/CD Pipeline, Kubernetes Service, Databricks, Serverless, Synapse Analytics), ML Explainability, Regression, ETL Processes, Git, Problem-Solving, Research & Brainstorming Skills, Critical Thinking, MLOps & Deployment
+**Skills/Tools:** *PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy, SQL, MLFlow, Azure (CI/CD Pipeline, Azure ML, Azure Kubernetes Service with Docker and KubeFlow, Databricks, Serverless, Synapse Analytics), ML Explainability, Regression, ETL Processes, Git, Problem-Solving, Research & Brainstorming Skills, Critical Thinking, MLOps & Deployment*
