@@ -14,7 +14,7 @@ author_profile: true
 **Organization: *HumanWare Technologies Inc., Canada***
 - ***May 2024 - Dec 2024: ML Engineer (Co-op)***
   - Designed and implemented ETL pipelines to process and prepare 3TB of unstructured image-text multimodal data for fine-tuning a Large Vision-Language Model (LVLM).
-  - Developed an innovative Navigation System leveraging the fine-tuned LVLM, speech-to-text (STT) and text-to-speech (TTS) models, alongside Agentic GenAI workflows to assist visually impaired users in navigating complex environments.
+  - Developed an innovative Navigation System leveraging the fine-tuned LVLM, speech-to-text (STT) and text-to-speech (TTS) models, along with Agentic GenAI workflows to assist visually impaired users in navigating complex environments.
   - Achieved a 32% improvement in navigation accuracy compared to the existing solution, alongside a 3$\times$ reduction in system inference latency, driving a seamless and efficient user experience.
   - Successfully deployed the devised method as a live product feature that resulted in a significant jump of 25% in retention rate.
 
