@@ -18,6 +18,10 @@ author_profile: true
 - Secured *First Division with Honors* at undergraduate level (*Bachelor of Technology (B.Tech)*) in *Computer Science and Engineering*
 - Featured on [PyTorch Geometric Release Page](https://github.com/pyg-team/pytorch_geometric/releases/tag/2.0.4) for my vital contributions to PyTorch Geometric library
 
+## Appreciationfor Valuable Contributions
+
+- Received an appreciation letter from Kumo's PyTorch Geometric toolkit's owner for making valuable contributions to their open-source library. [*View Letter*](https://github.com/fork123aniket/fork123aniket.github.io/blob/master/files/appreciation_letter.pdf)
+
 ## Extracurricular Activities
 
 - Co-mentored an *IBM Research* intern project resulting in work published in the [XAI Workshop at ICML 2021](https://icml2021-xai.github.io/)
