@@ -11,6 +11,16 @@ author_profile: true
 
 Below is a non-exhaustive list of my non-research projects. You can also check out a complete list of my projects [here](https://github.com/fork123aniket?tab=repositories).
 
+### Agentic-RAG Storytelling with Multimodal GenAI   [[Code](https://github.com/fork123aniket/Agentic-RAG-Storytelling-with-Multimodal-GenAI)]
+
+<img align="right" src="../files/agentic_ai.jpg" width=200px hspace="50">
+
+- Designed an advanced story generation system that leverages agentic multimodal GenAI to generate engaging & meaningful stories from user-uploaded images. It seamlessly integrates retrieval-based reasoning with generative AI using Large Vision-Language Models and vector search to craft immersive narratives. 
+- The system supports multiple data modalities (image & text), RAG-based retrieval for coherence, agentic AI-driven decision-making, and the InternVL2-40B model for story generation.
+- Libraries/Framework: *Streamlit*, *vLLM Kernels*, *ChromaDB*, *LangChain*, *Cloudinary API*, and *LangGraph*
+
+<hr style="border:2px solid gray">
+
 ### Multi-Round VLM-powered Multimodal Conversational AI Navigation Bot   [[Code](https://github.com/fork123aniket/Multi-Round-VLM-powered-Multimodal-Conversational-AI-Navigation-Bot)]
 
 <img align="right" src="../files/multimodal.jpg" width=200px hspace="50">
