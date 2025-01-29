@@ -11,13 +11,13 @@ author_profile: true
 
 Below is a non-exhaustive list of my non-research projects. You can also check out a complete list of my projects [here](https://github.com/fork123aniket?tab=repositories).
 
-### Agentic-RAG Storytelling with Multimodal GenAI   [[Code](https://github.com/fork123aniket/Agentic-RAG-Storytelling-with-Multimodal-GenAI)]
+### Agentic-RAG Story Generation with Multimodal GenAI   [[Code](https://github.com/fork123aniket/Agentic-RAG-Story-Generation-with-Multimodal-GenAI)]
 
 <img align="right" src="../files/agentic_ai.jpg" width=200px hspace="50">
 
 - Designed an advanced story generation system that leverages agentic multimodal GenAI to generate engaging & meaningful stories from user-uploaded images. It seamlessly integrates retrieval-based reasoning with generative AI using Large Vision-Language Models and vector search to craft immersive narratives. 
-- The system supports multiple data modalities (image & text), RAG-based retrieval for coherence, agentic AI-driven decision-making, and the InternVL2-40B model for story generation.
-- Libraries/Framework: *Streamlit*, *vLLM Kernels*, *ChromaDB*, *LangChain*, *Cloudinary API*, and *LangGraph*
+- The system supports multiple data modalities (image & text), RAG-based retrieval for coherence, agentic AI-driven decision-making, the InternVL2-40B model, and the audio narration (Text-to-Speech) capability for engaging & immersive story generation.
+- Libraries/Framework: *Streamlit*, *vLLM Kernels*, *ChromaDB*, *LangChain*, *Cloudinary API*, *pyttsx3 (Text-to-Speech)*, and *LangGraph*
 
 <hr style="border:2px solid gray">
 
@@ -32,7 +32,7 @@ Below is a non-exhaustive list of my non-research projects. You can also check o
   - integration of visual, text, and audio data for comprehensive interactions
   - maintenance of conversation context across multiple turns
   - real-time responses powered by Vision-Language multimodal models
-- Libraries/Framework: *Streamlit*, *vLLM Kernels*, *Google SpeechRecognition API*, *RunPod*, and *OpenAI API*
+- Libraries/Framework: *Streamlit*, *vLLM Kernels*, *Google SpeechRecognition API*, *RunPod*, *pyttsx3 (Text-to-Speech)*, and *OpenAI API*
 
 <hr style="border:2px solid gray">
 
