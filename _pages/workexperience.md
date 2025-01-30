@@ -18,7 +18,7 @@ author_profile: true
   - Achieved a 32% improvement in navigation accuracy compared to the existing solution, alongside a 3$\times$ reduction in system inference latency, driving a seamless and efficient user experience.
   - Successfully deployed the devised method as a live product feature that resulted in a significant jump of 25% in retention rate.
 
-**Skills/Tools:** *PyTorch, LVLM (Fine-Tuning, Evaluation, and Benchmark), RAG, Prompting, LangChain, LangGraph, NLP (HunggingFace Transformers), CV (Object detection and Navigation), Speech Recognition & Synthesis, Distributed Training (Ray and vLLM Kernels), Linux, MLOps (AWS Bedrock)*
+**Skills/Tools:** *PyTorch, LVLM (Fine-Tuning, Evaluation, and Benchmark), RAG, Prompting, LangChain, LangGraph, NLP (HunggingFace Transformers), CV (Object detection, Visual Scene Understanding, Localization, and Navigation), Speech Recognition & Synthesis, Distributed Training (Ray and vLLM Kernels), Linux, OpenAI API, MLOps (AWS Bedrock & SageMaker)*
 
 <hr style="border:2px solid gray">
 
