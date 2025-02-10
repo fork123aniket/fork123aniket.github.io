@@ -33,8 +33,8 @@ main:
   - title: "Honors"
     url: /honors/
     
-  - title: "CV"
-    url: /files/Resume.pdf
+  # - title: "CV"
+  #   url: /files/Resume.pdf
     
   # - title: "Guide"
     # url: /markdown/
