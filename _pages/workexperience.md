@@ -18,7 +18,7 @@ author_profile: true
   - Achieved a 32% improvement in navigation accuracy compared to the existing solution, alongside a 3$\times$ reduction in system inference latency, driving a seamless and efficient user experience.
   - Successfully deployed the devised method as a live product feature that resulted in a significant jump of 25% in retention rate.
 
-**Skills/Tools:** *PyTorch, LVLM (Fine-Tuning, Evaluation, and Benchmark), RAG, Prompting, LangChain, LangGraph, NLP (HunggingFace Transformers), CV (Object detection, Visual Scene Understanding, Localization, and Navigation), Speech Recognition & Synthesis, Distributed Training (Ray and vLLM Inference Framework), Linux, OpenAI API, MLOps (AWS Bedrock & SageMaker)*
+**Skills/Tools:** *PyTorch, LVLM (Fine-Tuning, Evaluation, and Benchmark), RAG (Vector Databases [Pinecone & AstraDB]), Prompting, LangChain, LangGraph, Autogen, NLP (HunggingFace Transformers), CV (Object detection, Visual Scene Understanding, Localization, and Navigation), Speech Recognition & Synthesis, Distributed Training (Ray and vLLM Inference Framework), Linux, OpenAI API (GPT-4o), MLOps (AWS Bedrock & SageMaker)*
 
 <hr style="border:2px solid gray">
 
@@ -44,7 +44,7 @@ author_profile: true
   - Created and optimized online inference approach to quickly serve the incoming requests for storage systems' capacity predictions at scale, leading to a 70% decrease in the framework's time to respond to user traffic requests.
   - Introduced the entire framework as a fully operational machine learning-driven IBM Storage Insights product feature with low latency and high throughput, serving numerous customers' requests in real-time.
 
-**Skills/Tools:** *TensorFlow, TensorFlow Extended (TFX), Time-Series Forecasting, SQL, AWS (DVC, EC2, Lambda, S3, SageMaker, CI/CD, Cloud Watch, SNS, API Gateway), Kubernetes (Docker, AWS EKS, and KubeFlow), Apache Spark, MLFlow, Git, Problem-Solving, A/B Testing, MLOps, Research Skills*
+**Skills/Tools:** *TensorFlow, Time-Series Forecasting, SQL, AWS (DVC, EC2, Lambda, S3, SageMaker, CI/CD, Cloud Watch, SNS, API Gateway), Kubernetes (Docker, AWS EKS, and KubeFlow), Apache Spark, MLFlow, Git, Problem-Solving, A/B Testing, MLOps, Research Skills*
 
 <hr style="border:2px solid gray">
 
@@ -86,4 +86,4 @@ author_profile: true
   - Optimized the developed ML platform by implementing an explainability solution to identify influential features in the data for the prediction algorithm, resulting in improved trained ML model accuracy from 65% to 86% for both TC Rate and vessel trajectory prediction tasks.
   - Integrated a data visualization framework into the platform for creating intuitive as well as user-interactive visualizations and launched the developed machine learning platform for production use, allowing 2k+ end clients to discover, on the fly, daily patterns in vessels movement and track the regular impact of vessel trades on liquidity.
  
-**Skills/Tools:** *PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy, Dash-Plotly, Tableau, PyMC, SQL, MLFlow, Azure (CI/CD Pipeline, Azure ML, Azure Kubernetes Service with Docker and KubeFlow, Databricks, Serverless, Synapse Analytics), ML Explainability, Regression Algorithms, ETL Processes, Git, Problem-Solving, Research & Brainstorming Skills, Critical Thinking, A/B Testing, MLOps & Deployment*
+**Skills/Tools:** *PyTorch, TensorFlow, Scikit-learn, Pandas, Numpy, Dash-Plotly, Tableau, SQL, MLFlow, Azure (CI/CD Pipeline, Azure ML, Azure Kubernetes Service with Docker and KubeFlow, Databricks, Serverless, Synapse Analytics), ML Explainability, Regression Algorithms, ETL Processes, Git, Problem-Solving, Research & Brainstorming Skills, Critical Thinking, A/B Testing, MLOps & Deployment*
