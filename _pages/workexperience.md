@@ -13,12 +13,12 @@ author_profile: true
 
 **Organization: *HumanWare Technologies Inc., Canada***
 - ***May 2024 - Dec 2024: ML Engineer (Co-op)***
-  - Designed and implemented ETL pipelines to process and prepare 3TB of unstructured image-text multimodal data for fine-tuning a Large Vision-Language Model (LVLM).
+  - Designed and implemented ETL pipelines to process and prepare 3TB of unstructured image-text multimodal data for fine-tuning Large Vision-Language Models (LVLM [_OpenAI GPT-4o, Mistral Pixtral Large, LLaVa, & Llama 3_]).
   - Developed an innovative Navigation System leveraging the fine-tuned LVLM, speech-to-text (STT) and text-to-speech (TTS) models, along with Agentic GenAI workflows to assist visually impaired users in navigating complex environments.
   - Achieved a 32% improvement in navigation accuracy compared to the existing solution, alongside a 3$\times$ reduction in system inference latency, driving a seamless and efficient user experience.
   - Successfully deployed the devised method as a live product feature that resulted in a significant jump of 25% in retention rate.
 
-**Skills/Tools:** *PyTorch, LVLM (Fine-Tuning, Evaluation, and Benchmark), RAG (Vector Databases [Pinecone & AstraDB]), Prompting, LangChain, LangGraph, Autogen, NLP (HunggingFace Transformers), CV (Object detection, Visual Scene Understanding, Localization, and Navigation), Speech Recognition & Synthesis, Distributed Training (Ray and vLLM Inference Framework), Linux, OpenAI API (GPT-4o), MLOps (AWS Bedrock & SageMaker)*
+**Skills/Tools:** *PyTorch, LVLM (Fine-Tuning, Evaluation, and Benchmark), RAG (Vector Databases [Pinecone & AstraDB]), Prompting, LangChain, LangGraph, Autogen, NLP (HunggingFace Transformers), CV (Object detection, Visual Scene Understanding, Localization, and Navigation), Speech Recognition & Synthesis, Distributed Training (Ray and vLLM Inference Framework), Linux, OpenAI API, OpenAI Whisper Large-v3 (STT Model), Google Speech Recognition API, MLOps (AWS Bedrock & SageMaker)*
 
 <hr style="border:2px solid gray">
 
