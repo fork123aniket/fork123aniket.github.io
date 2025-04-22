@@ -78,7 +78,7 @@ author_profile: true
 
 <img align="right" src="../files/ibmconsulting.png" width=200px>
 
-**Organization: *IBM Consulting, India***
+**Organization: *IBM Consulting, Singapore***
 - ***Sept 2018 - July 2020: Data Scientist***
   - Built a machine learning platform from scratch for monitoring and tracking the traversed path of 120k vessels.
   - Wrangled 1.5TB of vessel trading data stored in the Synapse database to train a Machine Learning regressive prediction algorithm and implemented an offline batch inference method for vessel trajectory prediction (in terms of longitudes and latitudes), which reduced the overall vessel traversal logistics time by 27%.
