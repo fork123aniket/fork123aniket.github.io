@@ -12,7 +12,7 @@ author_profile: true
 <img align="right" src="../files/humanware_logo.jpeg" width=200px hspace="10">
 
 **Organization: *HumanWare Technologies Inc., Canada***
-- ***May 2024 - Dec 2024: ML Engineer***
+- ***May 2024 - Dec 2024: Senior Machine Learning Engineer***
   - Designed and implemented ETL pipelines to process and prepare 3TB of unstructured image-text multimodal data for fine-tuning Large Vision-Language Models (LVLM [_OpenAI GPT-4o, Mistral Pixtral Large, LLaVa, & Llama 3_]).
   - Developed an innovative Navigation System leveraging the fine-tuned LVLM, speech-to-text (STT) and text-to-speech (TTS) models, along with Agentic GenAI workflows to assist visually impaired users in navigating complex environments.
   - Achieved a 32% improvement in navigation accuracy compared to the existing solution, alongside a 3$\times$ reduction in system inference latency, driving a seamless and efficient user experience.
@@ -25,7 +25,7 @@ author_profile: true
 <img align="right" src="../files/kumo_ai_logo.jpeg" width=70px hspace="10">
 
 **Organization: *Kumo.ai, Remote***
-- ***Mar 2023 - Aug 2023: Machine Learning Developer***
+- ***Mar 2023 - Aug 2023: Senior Machine Learning Developer***
   - Developed and integrated new live features and operators into Kumo's PyG toolkit such as [<ins>**_Relational Graph Attention Networks_**</ins>](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.nn.conv.RGATConv.html#torch_geometric.nn.conv.RGATConv), [<ins>**_GNN Clustering for Graph-structured Data_**</ins>](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.nn.dense.DMoNPooling.html#torch_geometric.nn.dense.DMoNPooling), and [<ins>**_Model-agnostic GNN Explainability Framework_**</ins>](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.explain.algorithm.GraphMaskExplainer.html#torch_geometric.explain.algorithm.GraphMaskExplainer).
   - Designed and implemented unit tests to validate devised techniques' accuracy and efficiency.
   - Received an appreciation letter from Kumo's PyTorch Geometric toolkit's owner for making valuable contributions to their open-source library. [*View Letter*](https://github.com/fork123aniket/fork123aniket.github.io/blob/master/files/appreciation_letter.pdf)
