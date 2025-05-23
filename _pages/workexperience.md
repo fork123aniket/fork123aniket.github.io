@@ -13,8 +13,8 @@ author_profile: true
 
 **Organization: *HumanWare Technologies Inc., Canada***
 - ***May 2024 - Dec 2024: Senior Machine Learning Engineer***
-  - Designed and implemented ETL pipelines to process and prepare 3TB of unstructured image-text multimodal data for fine-tuning Large Vision-Language Models (LVLM [_OpenAI GPT-4o, Mistral Pixtral Large, LLaVa, & Llama 3_]).
-  - Developed an innovative Navigation System leveraging the fine-tuned LVLM, speech-to-text (STT) and text-to-speech (TTS) models, along with Agentic GenAI workflows to assist visually impaired users in navigating complex environments.
+  - Designed and implemented ETL pipelines to process and prepare 60TB of unstructured image-text multimodal data for fine-tuning Large Vision-Language Models (LVLM [_OpenAI GPT-4o, Mistral Pixtral Large, LLaVa, & Llama 3_]).
+  - Developed an innovative Navigation System leveraging the fine-tuned LVLM, speech-to-text (STT), and text-to-speech (TTS) models, along with Agentic GenAI workflows to assist visually impaired users in navigating complex environments.
   - Achieved a 32% improvement in navigation accuracy compared to the existing solution, alongside a 3$\times$ reduction in system inference latency, driving a seamless and efficient user experience.
   - Successfully deployed the devised method as a live product feature that resulted in a significant jump of 25% in retention rate.
 
@@ -52,7 +52,7 @@ author_profile: true
 
 **Organization: *IBM Research Europe***
 - ***Sept 2021 - Mar 2023: ML Research Software Engineer***
-  - Developed a novel unsupervised contrastive learning-based approach for the detection of similar bugs on 14TB of unstructured bug text corpus to facilitate faster log analysis. 
+  - Developed a novel unsupervised contrastive learning-based approach for the detection of similar bugs on 700TB of unstructured bug text corpus to facilitate faster log analysis. 
   - The approach extracts documents from the corpus of bug text and then implements Text Variational Autoencoders (T-VAEs)-based unsupervised anomaly detection technique to detect anomalies in the bugs corpus. Subsequently, learns a latent representation using the BERT language model to form a document embedding for each bug document, and then measures the degree of similarity between these learned document embeddings of all extracted documents using novel Word Centroids (WC) and Word Mover Distance (WMD) algorithms.
   - Introduced quantization techniques to optimize this transformer-based similarity detection method, achieving a 38% smaller and 1.8$\times$ faster model and attaining 4$\times$ inference speedup and 14% improvement on both CPU and GPU.
   - Upon obtaining the semantic-similarity scores, the approach clusters the similar bugs together based on semantic textual similarity indexing, which is governed by these computed scores.
@@ -81,8 +81,8 @@ author_profile: true
 **Organization: *IBM Consulting, Singapore***
 - ***Sept 2018 - July 2020: Data Scientist***
   - Built a machine learning platform from scratch for monitoring and tracking the traversed path of 120k vessels.
-  - Wrangled 1.5TB of vessel trading data stored in the Synapse database to train a Machine Learning regressive prediction algorithm and implemented an offline batch inference method for vessel trajectory prediction (in terms of longitudes and latitudes), which reduced the overall vessel traversal logistics time by 27%.
-  - Led a cost-saving initiative by devising an automated ML approach to predict the Time Charter (TC) Rate to identify the best vessel at the lowest price based on the availability of the vessels, leading to an annual cost reduction exceeding $70,000 in logistics expenditures.
+  - Wrangled 22TB of vessel trading data stored in the Synapse database to train a Machine Learning regressive prediction algorithm and implemented an offline batch inference method for vessel trajectory prediction (in terms of longitudes and latitudes), which reduced the overall vessel traversal logistics time by 27%.
+  - Led a cost-saving initiative by devising an automated ML approach to predict the Time Charter (TC) Rate to identify the best vessel at the lowest price based on the availability of the vessels, leading to an annual cost reduction exceeding $70k in logistics expenditures.
   - Optimized the developed ML platform by implementing an explainability solution to identify influential features in the data for the prediction algorithm, resulting in improved trained ML model accuracy from 65% to 86% for both TC Rate and vessel trajectory prediction tasks.
   - Integrated a data visualization framework into the platform for creating intuitive as well as user-interactive visualizations and launched the developed machine learning platform for production use, allowing 2k+ end clients to discover, on the fly, daily patterns in vessels movement and track the regular impact of vessel trades on liquidity.
  
