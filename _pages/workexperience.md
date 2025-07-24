@@ -15,10 +15,10 @@ author_profile: true
 - ***May 2024 - Dec 2024: Senior Machine Learning Engineer***
   - Designed and implemented ETL pipelines to process and prepare 60TB of unstructured image-text multimodal data for fine-tuning Large Vision-Language Models (LVLM [_OpenAI GPT-4o, Mistral Pixtral Large, LLaVa, & Llama 3_]).
   - Developed an innovative Navigation System leveraging the fine-tuned LVLM, speech-to-text (STT), and text-to-speech (TTS) models, along with Agentic GenAI workflows to assist visually impaired users in navigating complex environments.
-  - Achieved a 32% improvement in navigation accuracy compared to the existing solution, alongside a 3$\times$ reduction in system inference latency, driving a seamless and efficient user experience.
+  - Optimized LVLMs for fast inference and efficient sampling in production using Speculative Decoding, resulting in a 32% boost in navigation accuracy and $3\times$ lower inference latency than the existing solution, driving a seamless and efficient user experience.
   - Successfully deployed the devised method as a live product feature that resulted in a significant jump of 25% in retention rate.
 
-**Skills/Tools:** *PyTorch, LVLM (Fine-Tuning, Evaluation, and Benchmark), RAG (Vector Databases [Pinecone & AstraDB]), Prompting, LangChain, LangGraph, Autogen, NLP (HunggingFace Transformers), CV (Object detection, Visual Scene Understanding, Localization, and Navigation), Speech Recognition & Synthesis, Distributed Training (Ray and vLLM Inference Framework), Linux, OpenAI API, OpenAI Whisper Large-v3 (STT Model), Google Speech Recognition API, MLOps (AWS Bedrock & SageMaker)*
+**Skills/Tools:** *PyTorch, LVLM (Fine-Tuning, Evaluation, and Benchmark), RAG (Vector Databases [Pinecone & DynamoDB]), Prompting, LangChain, LangGraph, Autogen, OpenSearch, NLP (HunggingFace Transformers), Model Compression and Quantization-Aware Training, CV (Object detection, Visual Scene Understanding, Localization, and Navigation), Speech Recognition & Synthesis, Distributed Training (Ray and vLLM Inference Framework), Linux, OpenAI API, OpenAI Whisper Large-v3 (STT Model), Google Speech Recognition API, MLOps (AWS Bedrock & SageMaker)*
 
 <hr style="border:2px solid gray">
 
@@ -39,7 +39,7 @@ author_profile: true
 **Organization: *IBM Systems Development Lab, India***
 - ***Apr 2022 - Mar 2023: Senior Data Scientist***
   - Created a multivariate time series-based neural learning framework that utilizes generic machine learning algorithms (LSTM, GRU, and RNN) to impeccably predict run-out memory times of 300k+ storage systems in the resources pool, which resulted in the reduction of resource exhaustion time by 91%.
-  - Developed a novel approach to segment storage systems based on their respective predicted behaviors in terms of average growth in usable capacity over a specific forecasting window period, which in turn helped fill the missing data present in the time series.
+  - Developed a novel approach to segment storage systems based on their respective predicted behaviors in terms of average growth in usable capacity over a specific forecasting window period, which, in turn, helped fill the missing data present in the time series.
   - Designed and implemented pipelines for various stages of development, starting from extracting high-dimensional data in the form of multivariate time series (with underlying non-continuous dynamic) from a storage data lake to training ML time-series algorithms and predicting the storage systems' capacities.
   - Created and optimized online inference approach to quickly serve the incoming requests for storage systems' capacity predictions at scale, leading to a 70% decrease in the framework's time to respond to user traffic requests.
   - Introduced the entire framework as a fully operational machine learning-driven IBM Storage Insights product feature with low latency and high throughput, serving numerous customers' requests in real-time.
