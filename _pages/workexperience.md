@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-<img align="right" src="../files/Mercor.jpg" width=200px hspace="10">
+<img align="right" src="../files/Mercor.jpg" width=100px hspace="5">
 
 **Organization: *Mercor | Remote***
 - ***July 2025 - Present: Senior Machine Learning Engineer***
