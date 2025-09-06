@@ -13,10 +13,10 @@ author_profile: true
 
 **Organization: *Mercor | Remote***
 - ***July 2025 - Present: Senior Machine Learning Engineer***
-  - Designing production-ready prompts with in-context learning for enterprise NL-to-SQL systems, improving query efficiency by 40\% and reducing operational costs by 25\% through optimized graph-based visualization.
-  - Building scalable RAG pipelines to extract relational data entities from SOP documents, enhancing data accessibility by 30\%.
+  - Designing production-ready prompts with in-context learning for enterprise NL-to-SQL systems, improving query efficiency by 40% and reducing operational costs by 25% through optimized graph-based visualization.
+  - Building scalable RAG pipelines to extract relational data entities from SOP documents, enhancing data accessibility by 30%.
 
-**Skills/Tools:** *PyTorch, HunggingFace, Prompting, RAG, Optimized Search \& Retrieval, I/O Guardrails, AutoGen, LangChain, Azure (AKS, Docker, CosmosDB, OpenAI, Data Factory, Functions), Neo4j*
+**Skills/Tools:** *PyTorch, HunggingFace, Prompting, RAG, Optimized Search & Retrieval, I/O Guardrails, AutoGen, LangChain, Azure (AKS, Docker, CosmosDB, OpenAI, Data Factory, Functions), Neo4j*
 
 <hr style="border:2px solid gray">
 
