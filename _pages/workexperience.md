@@ -9,9 +9,20 @@ author_profile: true
 
 ---
 
+<img align="right" src="../files/Mercor.jpg" width=200px hspace="10">
+
+**Organization: *Mercor | Remote***
+- ***July 2025 - Present: Senior Machine Learning Engineer***
+  - Designing production-ready prompts with in-context learning for enterprise NL-to-SQL systems, improving query efficiency by 40\% and reducing operational costs by 25\% through optimized graph-based visualization.
+  - Building scalable RAG pipelines to extract relational data entities from SOP documents, enhancing data accessibility by 30\%.
+
+**Skills/Tools:** *PyTorch, HunggingFace, Prompting, RAG, Optimized Search \& Retrieval, I/O Guardrails, AutoGen, LangChain, Azure (AKS, Docker, CosmosDB, OpenAI, Data Factory, Functions), Neo4j*
+
+<hr style="border:2px solid gray">
+
 <img align="right" src="../files/humanware_logo.jpeg" width=200px hspace="10">
 
-**Organization: *HumanWare Technologies Inc., Canada***
+**Organization: *HumanWare Technologies Inc. | Montreal, Canada***
 - ***May 2024 - Dec 2024: Senior Machine Learning Engineer***
   - Designed and implemented ETL pipelines to process and prepare 60TB of unstructured image-text multimodal data for fine-tuning Large Vision-Language Models (LVLM [_OpenAI GPT-4o, Mistral Pixtral Large, LLaVa, & Llama 3_]).
   - Developed an innovative Navigation System leveraging the fine-tuned LVLM, speech-to-text (STT), and text-to-speech (TTS) models, along with Agentic GenAI workflows to assist visually impaired users in navigating complex environments.
@@ -24,7 +35,7 @@ author_profile: true
 
 <img align="right" src="../files/kumo_ai_logo.jpeg" width=70px hspace="10">
 
-**Organization: *Kumo.ai, Remote***
+**Organization: *Kumo.ai | Remote***
 - ***Mar 2023 - Aug 2023: Senior Machine Learning Developer***
   - Developed and integrated new live features and operators into Kumo's PyG toolkit such as [<ins>**_Relational Graph Attention Networks_**</ins>](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.nn.conv.RGATConv.html#torch_geometric.nn.conv.RGATConv), [<ins>**_GNN Clustering for Graph-structured Data_**</ins>](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.nn.dense.DMoNPooling.html#torch_geometric.nn.dense.DMoNPooling), and [<ins>**_Model-agnostic GNN Explainability Framework_**</ins>](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.explain.algorithm.GraphMaskExplainer.html#torch_geometric.explain.algorithm.GraphMaskExplainer).
   - Designed and implemented unit tests to validate devised techniques' accuracy and efficiency.
@@ -36,7 +47,7 @@ author_profile: true
 
 <img align="right" src="../files/newibmsystemstorage.png" width=200px height=100px>
 
-**Organization: *IBM Systems Development Lab, India***
+**Organization: *IBM Systems Development Lab | Pune, India***
 - ***Apr 2022 - Mar 2023: Senior Data Scientist***
   - Created a multivariate time series-based neural learning framework that utilizes generic machine learning algorithms (LSTM, GRU, and RNN) to impeccably predict run-out memory times of 300k+ storage systems in the resources pool, which resulted in the reduction of resource exhaustion time by 91%.
   - Developed a novel approach to segment storage systems based on their respective predicted behaviors in terms of average growth in usable capacity over a specific forecasting window period, which, in turn, helped fill the missing data present in the time series.
@@ -50,7 +61,7 @@ author_profile: true
 
 <img align="right" src="../files/irl.png" width=200px>
 
-**Organization: *IBM Research Europe***
+**Organization: *IBM Research Europe | Rüschlikon, Switzerland***
 - ***Sept 2021 - Mar 2023: ML Research Software Engineer***
   - Developed a novel unsupervised contrastive learning-based approach for the detection of similar bugs on 700TB of unstructured bug text corpus to facilitate faster log analysis. 
   - The approach extracts documents from the corpus of bug text and then implements Text Variational Autoencoders (T-VAEs)-based unsupervised anomaly detection technique to detect anomalies in the bugs corpus. Subsequently, learns a latent representation using the BERT language model to form a document embedding for each bug document, and then measures the degree of similarity between these learned document embeddings of all extracted documents using novel Word Centroids (WC) and Word Mover Distance (WMD) algorithms.
@@ -65,7 +76,7 @@ author_profile: true
 
 <img align="right" src="../files/ibmresearch.png" width=200px>
 
-**Organization: *IBM Research India***
+**Organization: *IBM Research India | Bangalore, India***
 - ***July 2020 - Dec 2022: ML Research Software Engineer***
   - Developed a framework that converts property graphs of domain-specific ontologies into large-scale enterprise heterogeneous knowledge graphs, leveraging the multi-layered [<ins>**_RGCN_**</ins>](https://arxiv.org/abs/1703.06103) model for entity label prediction. This solution reduced entity duplication by 40%, improved data accuracy by 20%, and delivered $100K in annual savings on data management costs.
   - Proposed and deployed an automated approach to evaluate GNN explanations, enhancing the reliability of predictions on graph-structured data. Work published at the [<ins>**_Explainable AI Workshop at ICML 2021_**</ins>](https://arxiv.org/html/2107.08821#:~:text=title%3A%20towards%20automated%20evaluation%20of%20explanations%20in%20graph%20neural%20networks) and integrated as a live feature in IBM AI Explainability 360 toolkit under the IBM Research Trusted AI initiative.
@@ -78,7 +89,7 @@ author_profile: true
 
 <img align="right" src="../files/ibmconsulting.png" width=200px>
 
-**Organization: *IBM Consulting, Singapore***
+**Organization: *IBM Consulting | Singapore***
 - ***Sept 2018 - July 2020: Data Scientist***
   - Built a machine learning platform from scratch for monitoring and tracking the traversed path of 120k vessels.
   - Wrangled 22TB of vessel trading data stored in the Synapse database to train a Machine Learning regressive prediction algorithm and implemented an offline batch inference method for vessel trajectory prediction (in terms of longitudes and latitudes), which reduced the overall vessel traversal logistics time by 27%.
