@@ -23,7 +23,7 @@ author_profile: true
 <img align="right" src="../files/humanware_logo.jpeg" width=200px hspace="10">
 
 **Organization: *HumanWare Technologies Inc. | Montreal, Canada***
-- ***May 2024 - Dec 2024: Senior Machine Learning Engineer***
+- ***May 2024 - Dec 2024: Senior Machine Learning Engineer (Co-op)***
   - Designed and implemented ETL pipelines to process and prepare 60TB of unstructured image-text multimodal data for fine-tuning Large Vision-Language Models (LVLM [_OpenAI GPT-4o, Mistral Pixtral Large, LLaVa, & Llama 3_]).
   - Developed an innovative Navigation System leveraging the fine-tuned LVLM, speech-to-text (STT), and text-to-speech (TTS) models, along with Agentic GenAI workflows to assist visually impaired users in navigating complex environments.
   - Optimized LVLMs for fast inference and efficient sampling in production using Speculative Decoding, resulting in a 32% boost in navigation accuracy and $3\times$ lower inference latency than the existing solution, driving a seamless and efficient user experience.
