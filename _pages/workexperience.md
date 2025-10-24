@@ -36,7 +36,7 @@ author_profile: true
 <img align="right" src="../files/kumo_ai_logo.jpeg" width=70px hspace="10">
 
 **Organization: *Kumo.ai | Remote***
-- ***Mar 2023 - Aug 2023: Senior Machine Learning Developer***
+- ***Mar 2023 - Aug 2023: Senior Machine Learning Developer (Open-Source Contributor)***
   - Developed and integrated new live features and operators into Kumo's PyG toolkit such as [<ins>**_Relational Graph Attention Networks_**</ins>](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.nn.conv.RGATConv.html#torch_geometric.nn.conv.RGATConv), [<ins>**_GNN Clustering for Graph-structured Data_**</ins>](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.nn.dense.DMoNPooling.html#torch_geometric.nn.dense.DMoNPooling), and [<ins>**_Model-agnostic GNN Explainability Framework_**</ins>](https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.explain.algorithm.GraphMaskExplainer.html#torch_geometric.explain.algorithm.GraphMaskExplainer).
   - Designed and implemented unit tests to validate devised techniques' accuracy and efficiency.
   - Received an appreciation letter from Kumo's PyTorch Geometric toolkit's owner for making valuable contributions to their open-source library. [*View Letter*](https://github.com/fork123aniket/fork123aniket.github.io/blob/master/files/appreciation_letter.pdf)
