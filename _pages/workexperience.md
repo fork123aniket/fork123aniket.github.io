@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-<img align="right" src="../files/Mercor.jpg" width=100px hspace="5">
+<!-- <img align="right" src="../files/Mercor.jpg" width=100px hspace="5">
 
 **Organization: *Mercor | Remote***
 - ***July 2025 - Present: Senior Machine Learning Engineer***
@@ -18,7 +18,7 @@ author_profile: true
 
 **Skills/Tools:** *PyTorch, HunggingFace, Prompting, Vector & Graph RAG, Optimized Search & Retrieval, I/O Guardrails, AutoGen, LangChain, Llamaindex, Azure (AKS, Docker, CosmosDB, OpenAI, PromptFlow, Data Factory, Functions), Neo4j GraphDB, FAISS, FastAPI*
 
-<hr style="border:2px solid gray">
+<hr style="border:2px solid gray"> -->
 
 <img align="right" src="../files/humanware_logo.jpeg" width=200px hspace="10">
 
